@@ -11,22 +11,6 @@ from pydub.playback import play
 import matplotlib.pyplot as plt
 from streamlit_echarts import st_echarts
 
-from pygame import mixer
-from PIL import Image  
-import pygame
-pygame.init()
-
-def play_mp3(audio_file):
-    pygame.mixer.music.load(audio_file)
-    pygame.mixer.music.play()
-    pygame.event.wait()  # Attend la fin de la musique
-
-
-# Utilisez la fonction pour jouer le fichier MP3
-audio_file = r"AKIGORADASHBOARD/DATA AKIGORA/AKIDASH ELEVENLABS.mp3"
-play_mp3(audio_file)
-
-
 # Définir le titre de la page et l'état initial de la barre latérale
 st.set_page_config(page_title="AKIGORA DASHBOARD", layout="wide", initial_sidebar_state="collapsed")
 
