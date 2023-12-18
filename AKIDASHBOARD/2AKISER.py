@@ -2,12 +2,12 @@ import numpy as np
 import pandas as pd
 import seaborn as sns
 import streamlit as st
+from PIL import Image  
 import plotly.express as px
 from pydub import AudioSegment
 from pydub.playback import play
 import matplotlib.pyplot as plt
 from streamlit_echarts import st_echarts
-from PIL import Image  
 
 # Définir le titre de la page et l'état initial de la barre latérale
 st.set_page_config(page_title="AKIGORA DASHBOARD", layout="wide", initial_sidebar_state="collapsed")
