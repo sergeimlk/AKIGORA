@@ -1,0 +1,581 @@
+_id,intitule,localisation,date_debut,date_fin,replacement_or_creation,presentiel_distanciel,isClosed,daysPlanned,forfait_remuneration
+656ca1bf843c536c576b92c4,formation Qualiopi,Oloron Sainte-Marie,03/10/2023,24/11/2023,Création,presentiel,TRUE,,hourly
+656a06f9843c536c576b8eda,Management & Leadership,Bordeaux,15/05/2024,15/05/2024,Création de poste,,FALSE,,hourly
+6569f99411ad9c29f93181cd,Management et Ressources Humaines,Bordeaux,05/12/2023,19/12/2023,reconduction,presentiel,FALSE,,hourly
+6569f6d111ad9c29f93181bd,Jury : LV2 Italien,Bordeaux,07/06/2023,07/06/2023,Création,,FALSE,,hourly
+6569f6a511ad9c29f93181bc,"Jury ""entretien professionnel"" : rapports d'activité",Bordeaux,25/05/2023,25/05/2023,Création,presentiel,FALSE,,hourly
+6569f60811ad9c29f93181b6,Management interculturel,Bordeaux,14/11/2023,14/11/2023,Création de poste,presentiel,FALSE,,hourly
+6569e95e11ad9c29f9318186,"Gestion des risques intern & réglementation douanières, incoterms Niveau Expert.",Bordeaux,02/01/2024,30/04/2024,Reconduction,,FALSE,,hourly
+65688f5711ad9c29f9317dfb,Jury marketing,Bordeaux ,30/11/2023,30/11/2023,Création,presentiel,FALSE,,hourly
+65688f5211ad9c29f9317dfa,Jury marketing,Bordeaux ,30/11/2023,30/11/2023,Création,presentiel,FALSE,,hourly
+65688f4e11ad9c29f9317df9,Jury marketing,Bordeaux ,30/11/2023,30/11/2023,Création,presentiel,FALSE,,hourly
+65688f4a11ad9c29f9317df8,Jury marketing,Bordeaux ,30/11/2023,30/11/2023,Création,presentiel,FALSE,,hourly
+65674e826df3a711cd4950b4,Processus de l’Amélioration continue,Bordeaux,04/12/2023,30/06/2024,création de poste,presentiel,FALSE,,hourly
+6566e1a96df3a711cd494f52,Jury projet développement durable,,31/01/2024,31/01/2024,Création,presentiel,FALSE,,hourly
+656460f5ddcee07998d00fc9,"Big data, collecte et traitement des données",Lyon,12/02/2024,29/03/2024,Création,presentiel,FALSE,,hourly
+6561ec2eddcee07998d00d3e,Univers Métaverse et IA,Toulouse,02/04/2024,13/06/2024,Création,presentiel_plus_or_distanciel_minus,FALSE,,hourly
+6560a72b4054c942bf3e920d,Le transport routier de marchandises,Bourges (Centre-Val de Loire 18000),27/09/2023,27/09/2023,Création,presentiel,FALSE,,hourly
+6560845c4054c942bf3e91de,Séminaire Projet (marketing stratégique),Bordeaux,28/09/2023,30/04/2024,Création,presentiel,FALSE,,hourly
+65605dea4054c942bf3e91af,Cours avancé de Développement Web avec JavaScript,"Bordeaux, France",30/11/2023,15/01/2024,Création,presentiel_plus_distanciel_minus,TRUE,,hourly
+655fe488664767233f96a75b,Introduction au Développement Web avec JavaScript,"Bordeaux, France",27/11/2023,18/01/2024,Création,presentiel_plus_distanciel_minus,TRUE,,hourly
+655e37004c24a02f8f55e8f2,DAF / RAF,Bordeaux,28/04/2023,31/12/2023,Création de poste,,TRUE,30,daily
+655e36fc4c24a02f8f55e8f1,DAF / RAF,Bordeaux,28/04/2023,31/12/2023,Création de poste,,FALSE,30,hourly
+655e03094c24a02f8f55e858,Culture et médias spécialisés,Bordeaux,20/11/2023,18/12/2023,Création de poste,,FALSE,,hourly
+655dce360972f25b9dfca8ef,Coach BBC,Bordeaux,02/10/2023,31/05/2024,Autre,,FALSE,,hourly
+655dce180972f25b9dfca8eb,Coach BBC,Bordeaux,02/10/2023,31/05/2024,Autre,,FALSE,,hourly
+655b62e2203e6a22c9ef071c,Gestion administrative et comptable RH,Lyon,06/11/2023,31/03/2024,Création,presentiel,FALSE,,hourly
+655b1f4b203e6a22c9ef05ee,"ESG - ENVIRONMENTAL, SOCIAL & GOVERNANCE",Toulouse,29/03/2024,05/04/2024,Création de poste,,FALSE,,hourly
+655647bf203e6a22c9eeff8e,INNOVATION,Nantes,14/02/2024,03/04/2024,Autre,,FALSE,,hourly
+65564756203e6a22c9eeff8c,SI commercial,Nantes,20/10/2023,17/11/2023,Autre,,FALSE,,hourly
+655644dc203e6a22c9eeff89,Evaluation écrite : performance commerciale,Nantes,09/07/2024,09/07/2024,Autre,,FALSE,,hourly
+6554f144203e6a22c9eefe02,Organiser sa relation client,Nantes,18/03/2024,08/04/2024,Autre,,FALSE,,hourly
+6554eff9203e6a22c9eefe00,Business model vert,Nantes,12/12/2023,11/01/2024,Autre,,FALSE,,hourly
+6554ee88203e6a22c9eefdfd,Marketing responsable,Nantes,14/12/2022,09/01/2024,Autre,,FALSE,,hourly
+6554ee02203e6a22c9eefdf9,Marketing responsable,Nantes,01/10/2022,01/04/2023,Création,,TRUE,,hourly
+6554ecfd203e6a22c9eefdf6,Politique QSE,Nantes,12/12/2022,19/05/2023,Création,,FALSE,,hourly
+6554dccd203e6a22c9eefdd4,Atelier CV parfait,Bordeaux,17/11/2023,17/11/2023,Création,,FALSE,,hourly
+6554cb41203e6a22c9eefdb6,Gestion de la relation client,Mérignac,01/09/2023,30/06/2024,Création,,FALSE,,hourly
+65547ea4203e6a22c9eefd3e,Data Marketing,Bordeaux,22/12/2023,23/01/2024,Création,,FALSE,,hourly
+65526096203e6a22c9eefa79,E-consumer,Bordeaux,02/11/2023,24/05/2024,Création,,FALSE,,hourly
+65525fc1203e6a22c9eefa75,Formateur en Génie Electrique,Bordeaux,13/03/2023,30/06/2024,Création de poste,,FALSE,,hourly
+65525f4e203e6a22c9eefa72,Atelier CV parfait,Bordeaux,16/11/2023,16/11/2023,Création,,FALSE,,hourly
+654e529072811d2ae603de98,Coaching CV,Bordeaux,25/11/2022,25/11/2022,Création de poste,,TRUE,,hourly
+654e4c0872811d2ae603de71,Détection et prévention des intrusions,Montpellier,01/02/2024,31/07/2024,Création,,FALSE,,hourly
+654e116c72811d2ae603de35,Maintenance opérationnelle et suivi des incidents,Montpellier,01/02/2024,31/07/2024,Création,,FALSE,,hourly
+654ced5672811d2ae603dc55,Posture et élément de langage,Bordeaux,29/09/2023,09/02/2024,Création de poste,,FALSE,,hourly
+654ced0472811d2ae603dc51,Séminaire,Bordeaux,28/09/2023,30/04/2024,Création de poste,,FALSE,,hourly
+654cec9a72811d2ae603dc4e,Management d'équipe,Bordeaux,02/10/2023,07/02/2024,Création,,FALSE,,hourly
+654ce16a72811d2ae603dc2c,Management de la relation client d’un site e-commerce,Bordeaux,04/04/2024,24/04/2024,Création de poste,,FALSE,,hourly
+654cd9cc72811d2ae603dc09,Plan de communication,Bordeaux,02/10/2023,07/02/2024,remplacement,,FALSE,,hourly
+654cd9bd72811d2ae603dc08,communication digitale,Bordeaux,02/10/2023,19/12/2023,Création,,FALSE,,hourly
+654cad1772811d2ae603db9a,Droit à la mobilité internationale,Bordeaux,28/02/2024,28/02/2024,,,FALSE,,hourly
+654bc37972811d2ae603d9b0,Communication interne,Bordeaux,02/04/2024,14/05/2024,Création,,FALSE,,hourly
+654bc31f72811d2ae603d9ae,Revue de presse,Bordeaux,27/11/2023,22/01/2024,Création,,FALSE,,hourly
+654bc25272811d2ae603d9ac,Creativity and criticism,Bordeaux,10/10/2023,26/10/2023,Création,presentiel,FALSE,,hourly
+654baef272811d2ae603d947,Formateur en mathématiques appliquées à la physique,Bordeaux,04/09/2023,31/07/2024,Création de poste,,FALSE,,hourly
+654bae6572811d2ae603d944,Éthiques des affaires,Bordeaux,04/04/2024,16/05/2024,Création de poste,,FALSE,,hourly
+654ba21a72811d2ae603d8fd,Les énergies,Bordeaux,14/02/2022,02/04/2022,Création de poste,,FALSE,,hourly
+654b88af72811d2ae603d7d9,Séminaire Projet : Mise en situation,Bordeaux,10/11/2023,10/11/2023,Création,,FALSE,,hourly
+654b889b72811d2ae603d7d7,Séminaire Projet : Mise en situation,Bordeaux,10/11/2023,10/11/2023,Création,,FALSE,,hourly
+654b888f72811d2ae603d7d3,Séminaire Projet : Mise en situation,Bordeaux,10/11/2023,10/11/2023,Création,,FALSE,,hourly
+654b888072811d2ae603d7d1,Séminaire Projet : Mise en situation,Bordeaux,10/11/2023,10/11/2023,Création,,FALSE,,hourly
+654a077672811d2ae603d343,Formateur IELTS (International English Language Testing System),"Bordeaux, France",09/11/2023,09/11/2023,Création,,FALSE,,hourly
+6549dfac72811d2ae603d1a6,UI Design,Villeurbanne,14/11/2023,20/11/2023,Création,,TRUE,,daily
+6548aece72811d2ae603cea5,mathématiques BAC+2,Bordeaux,01/09/2023,30/06/2024,remplacement,,FALSE,,hourly
+6548a79272811d2ae603ce7a,Mission conseil entreprise,Bordeaux,02/10/2023,07/02/2024,Création,,FALSE,,hourly
+65489b1472811d2ae603ce75,Finances responsables,Toulouse,02/05/2024,30/06/2024,Création,,FALSE,,hourly
+65489ae072811d2ae603ce74,Finances durables,Toulouse,01/02/2024,30/04/2024,Création,,FALSE,,hourly
+6546839872811d2ae603cc25,"Web Luxury Culture, en anglais",Bordeaux,18/09/2023,27/10/2023,Création,,FALSE,,hourly
+6546733e72811d2ae603cc0e,Formateur International Development Strategy,Bordeaux,01/02/2023,28/02/2023,Création de poste,,TRUE,,hourly
+6546727272811d2ae603cc0b,Formateur Anglais,Bordeaux,04/09/2023,31/07/2024,RECONDUCTION,,FALSE,,hourly
+6546709a72811d2ae603cc07,Bloc 4 BTS CCST : Mettre en oeuvre l'expertise technico-commerciale,Bordeaux,28/08/2023,31/07/2024,Création de poste,,FALSE,,daily
+65452f2572811d2ae603c8c2,CONCEPTION cours Plateforme de marque,Mérignac,27/10/2023,22/03/2024,Création,,FALSE,,hourly
+65450782816ec424b04c5872,rédaction du syllabus : Mobiliser des actions de lobbying et de relations publiques,Lyon,22/05/2024,18/06/2024,Création,,FALSE,,hourly
+6544f41d816ec424b04c583b,Intelligence économique & Veille stratégique,"Lyon, France",03/11/2023,03/05/2023,Remplacement,,FALSE,,hourly
+6544f382816ec424b04c5835,Tourisme du Luxe,"Lyon, France",16/10/2023,21/02/2024,Remplacement,presentiel_plus_distanciel_minus,FALSE,,hourly
+6543d03e8bc3c608241a056e,Les outils du diagnostic,Nantes,10/10/2023,30/05/2024,reconduction,,FALSE,,hourly
+6543cfd88bc3c608241a056c,Les outils du diagnostic,Nantes,12/10/2022,02/11/2022,Création,,TRUE,,hourly
+6543cb308bc3c608241a0562,Stratégie de communication dans les maisons de luxe,Bordeaux,,,reconduction,,FALSE,,hourly
+6543c6958bc3c608241a055a,Suivi de mémoire,Bordeaux,01/03/2024,01/09/2024,Création de poste,,FALSE,,hourly
+654389e18bc3c608241a04ba,Mobiliser des actions de lobbying et de relations publiques,Lyon,26/04/2024,18/06/2024,Création,,FALSE,,hourly
+654387928bc3c608241a04b7,Construire et développer un réseau de partenaires,Lyon,02/04/2024,25/04/2024,Création,,FALSE,,hourly
+653fd85c807b0265e77ec095,Séminaire Projet : Mise en situation,Bordeaux,10/11/2023,10/11/2023,Création,,FALSE,,hourly
+653bfe265b0ddd07d925e746,Community Management,Bordeaux,01/09/2023,30/06/2024,Création de poste,,FALSE,,hourly
+653b93745b0ddd07d925e5fd,Méthodes quantitatives,Bordeaux,01/09/2022,01/06/2023,Création de poste,,TRUE,,hourly
+653b92a25b0ddd07d925e5f9,Art appliqué et culture artistique,Bordeaux,01/09/2022,10/01/2023,Création de poste,,TRUE,,hourly
+653b91b95b0ddd07d925e5f5,management stratégique des entreprises,Lyon,06/12/2023,23/01/2024,Création de poste,,TRUE,,hourly
+653b90085b0ddd07d925e5f2,"Gestion appliquée 
+(L'entreprise et son environnement économique juridique et social)",Bordeaux,01/09/2022,01/06/2023,Création de poste,,TRUE,,hourly
+653b89f75b0ddd07d925e5e8,Enjeux du management,Lyon,06/10/2023,06/10/2023,Création de poste,,TRUE,,hourly
+653b80585b0ddd07d925e5d8,Transitions énergétiques,Lyon,12/02/2024,29/03/2024,Création de poste,,FALSE,,hourly
+653b7ef75b0ddd07d925e5d0,Marketing Ethique,Lyon,02/04/2024,17/05/2024,Création de poste,,FALSE,,hourly
+653b6cac5b0ddd07d925e5b7,RSE : textes fondateurs,Lyon,28/11/2022,28/01/2023,Création de poste,,TRUE,,hourly
+653b6a975b0ddd07d925e5ad,droit fiscal,Lyon,28/11/2022,28/01/2023,Création de poste,,FALSE,,hourly
+653a2ba45b0ddd07d925e352,correction TOEIC,Bordeaux,08/11/2023,08/11/2023,Création,,FALSE,,hourly
+65391b9f5b0ddd07d925e0df,RGPD,Lyon,01/09/2023,29/12/2024,Création de poste,,FALSE,,hourly
+653912c15b0ddd07d925e0b1,Négociation /vente MDO 2023,Toulouse,23/10/2023,24/10/2023,Création,,FALSE,,hourly
+6536a4495b0ddd07d925d9e7,Communication interne et relation presse,Mérignac,02/11/2021,30/03/2022,Création de poste,,TRUE,,hourly
+6536a3ef5b0ddd07d925d9e4,Communication interne et relation presse,Mérignac,23/03/2022,30/03/2022,remplacement,,TRUE,,hourly
+6536a26d5b0ddd07d925d9d8,Stratégie Cross Canal,Bordeaux,01/09/2022,30/06/2023,Création de poste,,TRUE,,hourly
+6536a2035b0ddd07d925d9d4,Conquête et fidélisation clients,Bordeaux,01/09/2022,30/06/2023,Création de poste,,TRUE,,hourly
+6536a16a5b0ddd07d925d9d2,Inbound Marketing,Bordeaux,01/09/2022,30/06/2023,Création de poste,,TRUE,,hourly
+6536a10c5b0ddd07d925d9d0,Stratégies marketing digital,Bordeaux,01/09/2022,30/06/2023,Création de poste,,FALSE,,hourly
+6536a0a15b0ddd07d925d9ce,Web to store,Bordeaux,01/09/2022,30/06/2023,Création de poste,,TRUE,,hourly
+6536a0045b0ddd07d925d9cb,Marketing d'influence,Bordeaux,01/09/2022,30/06/2023,Création de poste,,TRUE,,hourly
+6536771f5b0ddd07d925d940,Droit du Marketing,Bordeaux,04/09/2023,01/01/2024,,,FALSE,,hourly
+653673915b0ddd07d925d92e,Parcours Libre Technologique : Cryptomonnaies,Bordeaux,30/09/2023,02/05/2024,Création,,FALSE,,hourly
+65327be55b0ddd07d925d1c4,"Les entretiens clés du management interpersonnel : hierarchique, ascendant, transverse...",Bordeaux,04/12/2023,04/12/2023,RECONDUCTION,,FALSE,,hourly
+653247a15b0ddd07d925d109,Gestion du handicap dans l’immobilier,Bordeaux,21/12/2023,13/02/2024,Création,,FALSE,,hourly
+65313afd5b0ddd07d925cf45,Gestion appliquée d'entreprise,Bordeaux,11/09/2023,11/12/2023,reconduction,,FALSE,,hourly
+6531391b5b0ddd07d925cf41,Technique de vente,Bordeaux,01/09/2023,30/06/2024,Création de poste,,FALSE,,hourly
+652fa2315b0ddd07d925ccad,Nouvelles stratégies de distribution,Rennes,02/10/2023,31/03/2024,Création,,FALSE,,hourly
+652fa20c5b0ddd07d925ccac,Force de vente,Rennes,01/03/2024,31/05/2024,Création,,FALSE,,hourly
+652fa0055b0ddd07d925cca9,Environnement commercial,Rennes,27/09/2023,31/01/2024,Création,,FALSE,,hourly
+652f9cbe5b0ddd07d925cca3,Communication sur les réseaux sociaux,Mérignac,29/05/2024,25/07/2024,Création,,FALSE,,hourly
+652f8e1a5b0ddd07d925cc61,Nouvelles stratégies de distribution / E-Commerce,"Lyon, France",16/10/2023,19/02/2024,Remplacement,presentiel,FALSE,,hourly
+652f8bca5b0ddd07d925cc5f,Supply Chain,Lyon,09/10/2023,21/02/2024,Remplacement,presentiel,FALSE,,hourly
+652f8bbd5b0ddd07d925cc5e,International Marketing,Lyon,09/10/2023,21/02/2024,Remplacement,presentiel_plus_distanciel_minus,FALSE,,hourly
+652e80335b0ddd07d925cabc,"[LYO2] Développement FrontEnd : HTML, CSS, JS/NodeJS, versionning","Décines-Charpieu, France (Lyon)",16/10/2023,15/03/2024,Création,presentiel,FALSE,,hourly
+652e7fe05b0ddd07d925cab7,[LYO9] Connaissance de l'entreprise,"Décines-Charpieu, France",06/11/2023,15/03/2024,Création,presentiel,FALSE,,hourly
+652e7fc65b0ddd07d925cab4,[LYO12] Outils de communication et d'insertion professionnelle,"Décines-Charpieu, France",02/04/2024,21/06/2024,Création,presentiel,TRUE,,hourly
+652e6b8a5b0ddd07d925caa7,Accessibilité,Lyon,15/02/2024,16/02/2024,Création,,FALSE,,hourly
+652e5aaa5b0ddd07d925ca4e,Social ADS,Mérignac,27/10/2023,17/11/2023,Remplacement,,FALSE,,hourly
+652e5a8d5b0ddd07d925ca4c,Plateforme de marque,Mérignac,27/10/2023,22/03/2024,Création,,FALSE,,hourly
+652e57c35b0ddd07d925ca45,Coactivité,Lyon,20/10/2023,23/02/2024,Création,,FALSE,,hourly
+652d2bcd5b0ddd07d925c829,Plan de communication,Bordeaux,02/10/2023,24/05/2024,remplacement,,FALSE,,hourly
+652d08585b0ddd07d925c73a,Management du changement,Bordeaux,01/02/2024,30/04/2024,Création,,FALSE,,hourly
+6526d4ef5b0ddd07d925b9bb,Organiser et animer des sessions de recrutement,Bordeaux,20/11/2023,20/11/2023,RECONDUCTION,,FALSE,,hourly
+652677005b0ddd07d925b8e2,Gestion prédictive des ventes,Bordeaux,13/03/2023,22/05/2023,Création de poste,,TRUE,,hourly
+652676a35b0ddd07d925b8de,Management de projet et méthodes agiles,Bordeaux,14/11/2022,13/12/2022,Création de poste,,TRUE,,hourly
+652676455b0ddd07d925b8d9,outils de décisions statistiques,Bordeaux,01/09/2022,30/06/2023,Création de poste,,TRUE,,hourly
+652676035b0ddd07d925b8d6,Mathématiques appliquées,Bordeaux,23/11/2022,05/06/2023,Création de poste,,TRUE,,hourly
+6526734c5b0ddd07d925b8cf,Webdesign et rédaction web,Bordeaux,23/09/2022,05/05/2023,Création de poste,,TRUE,,hourly
+652672de5b0ddd07d925b8cc,Dossier Professionnel,Bordeaux,10/10/2022,13/06/2023,Création de poste,,TRUE,,hourly
+652671e15b0ddd07d925b8c8,Jury de soutenance,Bordeaux,08/06/2023,16/06/2023,création,,FALSE,,hourly
+652671d05b0ddd07d925b8c4,Jury de soutenance,Bordeaux,08/06/2023,16/06/2023,création,,FALSE,,hourly
+652671c25b0ddd07d925b8c2,Jury de soutenance,Bordeaux,08/06/2023,16/06/2023,création,,FALSE,,hourly
+652671bd5b0ddd07d925b8c1,Jury de soutenance,Bordeaux,08/06/2023,16/06/2023,création,,FALSE,,hourly
+6526719d5b0ddd07d925b8bf,Conduite de réunion - PRISE DE PAROLE EN PUBLIC,Bordeaux,26/02/2024,05/06/2024,reconduction,,FALSE,,hourly
+652671085b0ddd07d925b8bc,PRISE DE PAROLE EN PUBLIC,Bordeaux,06/02/2023,05/06/2023,Création de poste,,TRUE,,hourly
+6526708a5b0ddd07d925b8b9,Développement stratégique de l'activité immobilière,Bordeaux,13/02/2024,10/06/2024,reconduction,,FALSE,,hourly
+652670175b0ddd07d925b8b6,Développement de l'activité immobilière,Bordeaux,25/10/2022,14/02/2023,Création de poste,,TRUE,,hourly
+65266d465b0ddd07d925b8ab,professeur de mathématiques,Bordeaux,12/09/2023,30/06/2024,reconduction,,FALSE,,hourly
+65266cc35b0ddd07d925b8a7,professeur de mathématiques,Bordeaux,12/09/2022,30/06/2023,Création de poste,,TRUE,,hourly
+65266c555b0ddd07d925b8a4,CEJM,Bordeaux,24/11/2022,17/03/2023,Création de poste,,TRUE,,hourly
+65266c315b0ddd07d925b8a1,CEJM,Bordeaux,07/09/2023,30/06/2024,reconduction,,FALSE,,hourly
+652560b45b0ddd07d925b6a9,Ingénierie sociale,Toulouse,27/11/2023,26/01/2024,création,,FALSE,,hourly
+65252b295b0ddd07d925b607,Techniques de négociation en anglais,Bordeaux,29/09/2023,09/02/2024,Création de poste,,FALSE,,hourly
+652520895b0ddd07d925b5b0,Panorama du secteur : marketing / e-commerce,Bordeaux,02/10/2023,08/12/2023,Création,,FALSE,,hourly
+6523a35f5b0ddd07d925b0df,DevSecOps,Paris,09/10/2023,08/01/2024,création,,TRUE,,hourly
+65200109d2ebbd6640a83c0d,Performance commerciale,Nantes,01/09/2023,31/07/2024,reconduction,,FALSE,,hourly
+65200070d2ebbd6640a83c09,Performance commerciale,Nantes,01/09/2023,31/07/2024,reconduction,,FALSE,,hourly
+651ff79cd2ebbd6640a83b7c,Sélectionner une plateforme logistique,Bourges,07/09/2023,21/12/2023,Création,,FALSE,,hourly
+651fd5b9d2ebbd6640a83b3e,RAN Français,Bordeaux,02/10/2023,28/06/2024,Création,,FALSE,,hourly
+651fbf40d2ebbd6640a83af1,CONDUIRE DES ENTRETIENS PROFESSIONNELS ET ENTRETIENS ANNUELS D'APPRÉCIATION,Bordeaux,01/02/2024,30/04/2024,Création,,FALSE,,hourly
+651fbeaed2ebbd6640a83aed,OPTIMISER LE PLAN DE DÉVELOPPEMENT DES COMPÉTENCES /STRATÉGIE,Bordeaux,01/02/2024,30/04/2024,Création,,FALSE,,hourly
+651fbe10d2ebbd6640a83aea,ÉLABORER UNE POLITIQUE DE RECRUTEMENT/STRATÉGIE,Bordeaux,02/10/2023,29/12/2023,Création,,FALSE,,hourly
+651fbd57d2ebbd6640a83ae7,GÉRER LES RH AU QUOTIDIEN,Bordeaux,01/02/2024,30/04/2024,Création,,FALSE,,hourly
+651fbc40d2ebbd6640a83ae0,ATELIERS RECRUTEMENT ET PERSONNAL BRANDING,Bordeaux,01/02/2024,30/04/2024,Création,,FALSE,,hourly
+651ee83dd2ebbd6640a8380d,Espaces Probabilisés Finis,Bordeaux,01/02/2024,29/03/2024,Création,,FALSE,,hourly
+651ee379d2ebbd6640a837f2,Démographie : Enjeux majeurs,Bordeaux,01/04/2024,31/05/2024,Création de poste,,FALSE,,hourly
+651ee213d2ebbd6640a837e9,Excel Avancé,Bordeaux,01/02/2024,28/06/2024,Création,,FALSE,,hourly
+651ed161d2ebbd6640a83777,Algèbre : Diagonalisation,Bordeaux,05/02/2024,01/04/2024,Création de poste,,FALSE,,hourly
+651ed10bd2ebbd6640a83775,Algèbre : Diagonalisation niveau 1,Bordeaux,01/04/2024,30/05/2024,Création de poste,,FALSE,,hourly
+651ed0b7d2ebbd6640a83773,Algèbre : systèmes linéaires,Bordeaux,05/02/2024,01/04/2024,Création de poste,,FALSE,,hourly
+651ec929d2ebbd6640a83746,Data : Bases de données SQL,Bordeaux,09/10/2023,27/11/2023,Création de poste,,TRUE,,hourly
+651ec2b0d2ebbd6640a83734,Formateur Ecoconception et analyse du cycle de vie,Bordeaux,01/04/2024,31/05/2024,Reconduction,,FALSE,,hourly
+651eb656d2ebbd6640a83705,Excel avancé,Bordeaux,01/04/2024,30/05/2024,Création de poste,,FALSE,,hourly
+651eb64bd2ebbd6640a83703,Excel avancé,Bordeaux,01/04/2024,30/05/2024,Création de poste,,FALSE,,hourly
+651d6210d2ebbd6640a832ee,Manager des Ressources Humaines : CONDUIRE UN AUDIT SOCIAL ET UNE MISSION DE CONSEIL RH,Bordeaux,20/09/2023,12/04/2024,Création,,FALSE,,hourly
+651d5e59d2ebbd6640a832dc,Séminaire paie,Bordeaux,04/12/2023,08/12/2023,Création,,FALSE,,hourly
+651c03c7d2ebbd6640a82cf3,"accompagnement au cours ""Humanities""",Bordeaux,02/10/2023,07/02/2024,Création,,FALSE,,hourly
+65170922d2ebbd6640a81fa0,Gestion de la coactivité,Lyon,05/05/2023,25/05/2023,Création de poste,,TRUE,,hourly
+6516ea49d2ebbd6640a81ed0,Gestion financière RH (gestion administrative et comptable du personnel),Bordeaux,28/09/2023,30/04/2024,Création de poste,,TRUE,,hourly
+6516d6f6d2ebbd6640a81e01,Formateur COURS D'ANGLAIS,Montpellier,29/08/2022,30/06/2023,CREATION DE POSTE,,TRUE,,hourly
+6516a05e3191de18b338e5df,Communication Digitale,Bordeaux,26/09/2023,19/12/2023,Création ,,FALSE,,hourly
+65169fc63191de18b338e5da,Etude de clientèle,Bordeaux,01/09/2022,31/07/2023,remplacement,,TRUE,,hourly
+651685783191de18b338e502,Relations publiques & évènementiel,Toulouse,27/11/2023,26/01/2024,création,,TRUE,,hourly
+65159a803191de18b338e2a6,Intervention supplémentaire,Lyon,,,Création de poste,,TRUE,,hourly
+65158d163191de18b338e247,Utilisation des blockchain,Bordeaux,09/10/2023,28/06/2024,RECONDUCTION,,FALSE,,hourly
+65158c863191de18b338e240,Utilisation des blockchain,Bordeaux,04/04/2022,21/05/2022,Création de poste,,TRUE,,hourly
+65153ea7752b341f180e92b0,Cours de Portugais,Bordeaux,18/09/2023,31/05/2024,Création ,,FALSE,,hourly
+65146153752b341f180e9108,Code of Luxury,Bordeaux,01/09/2023,30/06/2024,Création de poste,,FALSE,,hourly
+6514605b752b341f180e9104,Méthodologie de mémoire,Bordeaux,11/10/2022,06/06/2023,Création de poste,,TRUE,,hourly
+65145ff5752b341f180e90fe,Code du luxe,Bordeaux,01/09/2023,30/06/2024,Création de poste,,FALSE,,hourly
+65145f97752b341f180e90fa,Conduire le changement,Paris,13/04/2023,27/09/2023,Création de poste,,TRUE,,hourly
+65145e68752b341f180e90ed,Constituer et étendre son réseau d'influence pour faciliter ses ventes,Lyon,12/07/2023,12/09/2023,Création de poste,,TRUE,,hourly
+651451a9752b341f180e906e,Culture juridique de l’entreprise,"Rennes, France",01/03/2024,31/05/2024,Autre,presentiel,FALSE,,hourly
+651442ed752b341f180e905b,Green IT,Paris,09/10/2023,08/01/2024,création,,FALSE,,hourly
+6513f942752b341f180e8f15,Stratégie d'entreprise,Bordeaux,28/09/2023,09/02/2024,Création de poste,,FALSE,,hourly
+6513f85e752b341f180e8f13,Mener des négociations en anglais (in english),Lyon,16/11/2023,10/04/2024,Création ,,TRUE,,hourly
+6513e5a7752b341f180e8ed0,Internet & réseaux sociaux,Bordeaux,29/09/2023,09/02/2024,Création de poste,,FALSE,,hourly
+651310cc752b341f180e8d46,CREATION D'UNE ASSOCIATION / GESTION DE PROJET,Bordeaux,18/09/2023,27/10/2023,Création,,TRUE,,hourly
+6512cf6c752b341f180e8cb6,Intelligence économique et Veille stratégique,Bordeaux,28/08/2023,28/08/2023,Création,,FALSE,,hourly
+6512b083752b341f180e8c56,Web marketing,Bordeaux,02/10/2023,30/06/2024,Création de poste,,FALSE,,hourly
+6512b072752b341f180e8c55,Web marketing,Bordeaux,02/10/2023,30/06/2024,Création de poste,,FALSE,,hourly
+6512b02e752b341f180e8c53,Gestion commerciale et vente,Bordeaux,02/10/2023,30/06/2024,Création de poste,,TRUE,,hourly
+6512b020752b341f180e8c52,Web marketing,Bordeaux,02/10/2023,30/06/2024,Création de poste,,FALSE,,hourly
+6512b01a752b341f180e8c51,Web marketing,Bordeaux,02/10/2023,30/06/2024,Création de poste,,FALSE,,hourly
+6512a59243eadb19fb3eb2f4,RGPD,Lyon,01/09/2023,29/12/2024,Création de poste,,TRUE,,hourly
+651195dd90c59951daf90c7c,Directeur de mémoire Bachelor,Bordeaux,01/02/2024,30/08/2024,RECONDUCTION,,FALSE,,hourly
+6511955c90c59951daf90c78,Plan de communication,Bordeaux,10/10/2023,29/02/2024,Création,,FALSE,,hourly
+6511947890c59951daf90c73,Storytelling et Marketing émotionnel,Bordeaux,25/03/2024,28/04/2024,Création,,FALSE,,hourly
+6511935290c59951daf90c6b,Gestion de projet : Les outils,,25/03/2024,28/05/2024,,,FALSE,,hourly
+65114b4590c59951daf90b64,Journée de cohésion,Bordeaux,12/09/2023,12/12/2023,création de poste,,TRUE,,hourly
+65112a22fe291c3794b1f105,Stratégie d'Internationalisation,Bordeaux,28/08/2023,28/08/2023,Création,,FALSE,,hourly
+650da02efe291c3794b1e95b,interventions auprès des classes RH Noschool Master,Mérignac,01/09/2023,30/06/2024,reconduction,,FALSE,,hourly
+650bfb0ed505e132333ca379,Jurys admission,Bordeaux,07/02/2023,30/07/2023,Création de poste,,TRUE,,hourly
+650bfaf2d505e132333ca378,Jurys admission,Bordeaux,07/02/2023,30/07/2023,Création de poste,,TRUE,,hourly
+650bfae7d505e132333ca377,Jurys admission,Bordeaux,07/02/2023,30/07/2023,Création de poste,,TRUE,,hourly
+650bfa1cd505e132333ca372,Jury Challenge Marketing,Bordeaux,14/02/2023,14/02/2023,Création de poste,,TRUE,,hourly
+650bf974d505e132333ca36e,Jurys admission,Bordeaux,07/02/2023,30/07/2023,Création de poste,,TRUE,,hourly
+650bf8fbd505e132333ca36a,Stratégie d’entreprise,Bordeaux,,,Création ,,FALSE,,hourly
+650bf8cdd505e132333ca369,Simulation d'entretien RH,,24/05/2023,25/05/2023,création,,TRUE,,hourly
+650bf8afd505e132333ca368,Simulation d'entretien RH,,24/05/2023,25/05/2023,création,,TRUE,,hourly
+650bf7f7d505e132333ca366,Atelier 1er CV,Bordeaux,27/09/2023,04/10/2023,REMPLACEMENT,,FALSE,,hourly
+650bf7f7d505e132333ca365,Jury Eloquence,Bordeaux,28/03/2023,28/03/2023,Création de poste,,TRUE,,hourly
+650bf71fd505e132333ca35e,stratégies Marketing et commerciales appliquées au Tourisme,Bordeaux,17/10/2022,15/05/2023,RECONDUCTION,,TRUE,,hourly
+650bf6814c102c0c1003a49c,Marketing d'influence,Bordeaux,17/10/2022,15/05/2023,RECONDUCTION,,TRUE,,hourly
+650bf5874c102c0c1003a498,Community management,Bordeaux,10/11/2022,30/06/2023,Création,,TRUE,,hourly
+650bf51b4c102c0c1003a495,Sales management,Bordeaux,10/11/2022,30/06/2023,,,TRUE,,hourly
+650bf4a24c102c0c1003a492,outils de reporting,Bordeaux,10/01/2023,14/02/2023,Création,,TRUE,,hourly
+650bf3fb4c102c0c1003a48f,E-Business & Marketing digital,Bordeaux,09/11/2022,06/02/2023,Création,,TRUE,,hourly
+650bf3424c102c0c1003a48d,Plan de communication,Bordeaux,10/10/2022,15/02/2023,Création,,TRUE,,hourly
+650bf0ad4c102c0c1003a48a,Success stories,Bordeaux,10/10/2022,09/12/2022,,,TRUE,,hourly
+650b02ff8b2725390d967cb7,Produits alimentaires de luxe,Bordeaux,11/09/2023,31/07/2024,création,,FALSE,,hourly
+650b02b18b2725390d967cb1,Agriculture et environnement durable,Bordeaux,11/09/2023,31/07/2024,création,,FALSE,,hourly
+650b027b8b2725390d967ca8,Filière alimentaires et leurs organisations,Bordeaux,11/09/2023,31/07/2024,création,,FALSE,,hourly
+650afbd08b2725390d967c84,Reglementations douanières et incoterms,Bordeaux,,,Création de poste,,FALSE,,hourly
+650afbce8b2725390d967c83,Reglementations douanières et incoterms,Bordeaux,,,Création de poste,,FALSE,,hourly
+650aeb558b2725390d967bec,Outils et démarches pour exporter,Bordeaux,,,Reconduction,,FALSE,,
+650aeb358b2725390d967be9,Gestion des risques financiers à l’international,Bordeaux,,,Reconduction,,FALSE,,
+650acfc88b2725390d967bba,DEVELOPPEMENT WEB : Intégration web,Bordeaux,01/09/2023,31/12/2024,Création,,FALSE,,hourly
+650aa2988b2725390d967b4a,Introduction à l'audit,Bordeaux,28/09/2023,30/04/2023,Création de poste,,FALSE,,hourly
+6509ae878b2725390d9678d5,STRATEGIE DE COMMUNICATION,Bordeaux,,,reconduction,,FALSE,,hourly
+6509ae328b2725390d9678d0,STRATEGIE DE COMMUNICATION,Bordeaux,03/10/2022,30/06/2023,Création de poste,,TRUE,,hourly
+6509abbbf95a870ce72f9f1d,Droit du numérique,Bordeaux,22/05/2023,26/06/2023,Création de poste,,TRUE,,hourly
+6509ab51f95a870ce72f9f1c,E-CRM,Bordeaux,24/05/2023,28/06/2023,Création de poste,,TRUE,,hourly
+6509ab0cf95a870ce72f9f18,analyse de données commerciales,Bordeaux,16/12/2022,06/01/2023,REMPLACEMENT,,TRUE,,hourly
+6509aa60f95a870ce72f9f11,STRATEGIE DIGITALE & E-REPUTATION,Bordeaux,03/10/2022,30/06/2023,Création de poste,,TRUE,,hourly
+6509a9b9f95a870ce72f9f0e,ORGANISATION DU CENTRE DE PROFIT,Bordeaux,12/01/2023,04/04/2023,Création de poste,,TRUE,,hourly
+6509a917f95a870ce72f9f0b,DATA MINING,Bordeaux,05/01/2023,02/02/2023,Création de poste,,TRUE,,hourly
+6509a76bf95a870ce72f9f03,MANAGEMENT DE LA DSI,Bordeaux,13/06/2023,11/07/2023,Création de poste,,TRUE,,hourly
+6509a719f95a870ce72f9eff,CULTURE & STRATEGIE DIGITALE,Bordeaux,22/05/2023,29/06/2023,Création de poste,,TRUE,,hourly
+6509a6b2f95a870ce72f9efc,Management de la qualité,Bordeaux,03/10/2022,30/06/2023,Création de poste,,TRUE,,hourly
+650975daf95a870ce72f9e73,Gestion de projet orienté LEAN Management,Bordeaux,,,Création de poste,,FALSE,,hourly
+65095437f95a870ce72f9dc4,Business Game Bachelor B1,Bordeaux,20/09/2023,22/09/2022,Création de poste,,TRUE,,hourly
+65095347f95a870ce72f9db7,Pack Office,Bordeaux,09/03/2023,03/07/2023,Création de poste,,TRUE,,hourly
+65095298f95a870ce72f9da5,Projet & innovation,Bordeaux,09/03/2023,24/03/2023,Création de poste,,TRUE,,hourly
+65095185f95a870ce72f9d9b,Culture web marketing,Bordeaux,20/02/2023,21/05/2023,Création de poste,,TRUE,,hourly
+65085379f95a870ce72f9b0f,Cours de Japonais,Bordeaux,11/09/2023,26/06/2024,,,FALSE,,hourly
+6507f137f95a870ce72f9a13,Introduction au VBA,Bordeaux,29/09/2023,09/02/2023,Création de poste,,FALSE,,hourly
+650466daf95a870ce72f946f,Intervenant en Gestion budgétaire,"Rennes, France",11/10/2023,29/02/2024,Autre,presentiel,FALSE,,hourly
+65046344f95a870ce72f9461,RSE : modèles / antimodele,Lyon,01/09/2023,29/12/2024,Création de poste,,FALSE,,hourly
+65046240f95a870ce72f9459,ANALYSE DES CYCLES DE VIE,Lyon,12/02/2024,29/03/2024,Création de poste,,FALSE,,hourly
+65044932f95a870ce72f939b,Culture Générale et Expression,Bordeaux,22/09/2023,28/06/2024,Création ,,FALSE,,hourly
+65040f29f95a870ce72f92f8,DEVELOPPEMENT WEB : Intégration Wordpress,Bordeaux,01/09/2023,31/12/2023,Création,,FALSE,,hourly
+65040bfcf95a870ce72f92ed,Account Management,"Rennes, France",11/10/2023,29/02/2024,Autre,,FALSE,,hourly
+65040bd0f95a870ce72f92ec,Stratégie de distribution,"Rennes, France",11/10/2023,29/02/2024,Autre,,FALSE,,hourly
+65040b9ef95a870ce72f92eb,E-Consumer 18h,"Rennes, France",11/10/2023,29/02/2024,Autre,,FALSE,,hourly
+65032d86f95a870ce72f91a5,"Jury Evaluation de bloc 4 (Structuration, soutenance et négociation d'une offre avec proposition de valeur)",Bordeaux,05/10/2023,06/10/2023,Création,,TRUE,,hourly
+6501c60bf95a870ce72f89e6,Data : Analyse de données en Python,Bordeaux,27/11/2023,30/01/2024,Création de poste,,FALSE,,hourly
+6501c59ff95a870ce72f89e2,module de 3H en programmation : semaine d'uniformisationPython/SQL/SAS/R/Mongo DB...,Bordeaux,02/10/2023,06/10/2023,Création de poste,,FALSE,,hourly
+6501b7eef95a870ce72f899d,Développer pour le Cloud,"Bordeaux, France",21/12/2023,08/02/2024,Création,distanciel,FALSE,,hourly
+6501b353f95a870ce72f898d,PREVENTION DES RISQUES ET DEMARCHE QUALITÉ,Bordeaux,24/04/2023,20/06/2023,Création de poste,,TRUE,,hourly
+650184faf95a870ce72f88aa,RECRUTEMENT ET STRATEGIE D'ENTREPRISE,Bordeaux,09/02/2024,12/06/2024,Création ,,FALSE,,hourly
+650181e1f95a870ce72f8897,Expérience client,Bordeaux,30/05/2024,20/06/2024,Création,,FALSE,,hourly
+65017e49f95a870ce72f8891,Relations publiques et Lobbying,Bordeaux,,,Création de poste,,FALSE,,hourly
+65015f1ff95a870ce72f8845,Python Flask: Déployer des analyses sur serveur,Bordeaux,13/10/2023,24/11/2023,Création de poste,,FALSE,,hourly
+65015f09f95a870ce72f8843,Programmation en classe avec Python,Bordeaux,12/10/2023,23/11/2023,Création de poste,,FALSE,,hourly
+650151c0f95a870ce72f8829,Tourisme durable,Bordeaux,10/01/2024,24/01/2024,Création de poste,,FALSE,,hourly
+65009473f95a870ce72f8772,Tourisme Durable,Bordeaux,13/09/2023,14/09/2023,Remplacement,,FALSE,,hourly
+650000f5ca076d68b3b61dbb,Algèbre : Diagonalisation,Bordeaux,05/02/2024,01/04/2024,Création de poste,,FALSE,,hourly
+6500004aca076d68b3b61dba,Algèbre : Rappel Première et Deuxième année (Somme/intégration/Matrices/Va discrete/continu),Bordeaux,09/10/2023,30/11/2023,Création de poste,,FALSE,,hourly
+6500000aca076d68b3b61db8,Algèbre : Diagonalisation niveau 1,Bordeaux,01/04/2024,30/05/2024,Création de poste,,FALSE,,hourly
+64ffffd7ca076d68b3b61db5,Algèbre : systèmes linéaires,Bordeaux,05/02/2024,01/04/2024,Création de poste,,FALSE,,hourly
+64fb441018cd730cf4f4d278,CEJM,Toulouse,02/10/2023,31/07/2024,Création,,FALSE,,hourly
+64fb2dcc18cd730cf4f4d228,Tourisme et event,Bordeaux,29/09/2023,09/02/2023,Création de poste,,FALSE,,hourly
+64fb1f3e18cd730cf4f4d1f7,"Sensibilisation, Typologie",Bordeaux,24/03/2024,09/04/2024,Création,,FALSE,,hourly
+64fb1f3018cd730cf4f4d1f6,Hacking,Bordeaux,24/03/2024,09/04/2024,Création,,FALSE,,hourly
+64fb1f2818cd730cf4f4d1f5,"Cybersécurité - Principes fondamentaux, Linux Kali (Services et ports à risques)",Bordeaux,24/03/2024,09/04/2024,Création,,FALSE,,hourly
+64fb153c18cd730cf4f4d1e5,Architecture Client/Serveur Microsoft et Active Directory,Bordeaux,01/09/2023,31/01/2024,créa,,FALSE,,hourly
+64fb150e18cd730cf4f4d1e3,Cahier des charges,Bordeaux,01/09/2023,31/01/2024,créa,,FALSE,,hourly
+64faf18b18cd730cf4f4d15c,Logiciel bureautique (Excel),Bordeaux,,,Création,,FALSE,,hourly
+64faea9518cd730cf4f4d12c,Atelier : Développer et sécuriser une solution Cloud,Toulouse,01/02/2024,28/06/2024,Création,,FALSE,,hourly
+64fae72d18cd730cf4f4d10a,Développement et services Cloud,Toulouse,01/02/2024,28/06/2024,Création,,FALSE,,hourly
+64f9ed2918cd730cf4f4cf12,STRATEGIC MANAGEMENT,Lyon,03/11/2023,08/04/2024,Remplacement,,FALSE,,hourly
+64f9a19618cd730cf4f4cdda,Atelier prise de parole,Bordeaux,01/04/2023,01/04/2023,Création de poste,,TRUE,,hourly
+64f99c2418cd730cf4f4cdbf,Introduction à la RSE,Bordeaux,01/10/2023,29/02/2024,création,,FALSE,,hourly
+64f995e218cd730cf4f4cd93,Accompagnement Pro,Bordeaux,13/03/2023,16/04/2023,Création de poste,,TRUE,,hourly
+64f9951418cd730cf4f4cd8d,Culture & médias spécialisés,Bordeaux,10/10/2022,02/12/2022,REMPLACEMENT,,FALSE,,hourly
+64f9933618cd730cf4f4cd8a,Techniques de négociation,Bordeaux,29/09/2023,09/02/2023,Création de poste,,FALSE,,hourly
+64f8a00b18cd730cf4f4cb07,Jury Soutenance I1 DEV,Bordeaux,05/09/2023,28/09/2023,Création,,FALSE,,hourly
+64f8486418cd730cf4f4ca39,Gestion de la relation client,,01/09/2023,30/06/2024,création,,FALSE,,hourly
+64f847f318cd730cf4f4ca37,Organisation & Management de la structure,Bordeaux,01/09/2023,24/06/2024,Création de poste,,FALSE,,hourly
+64f7493318cd730cf4f4c896,Formateur RH - SOURCER ET RECRUTER DES CANDIDATS,Bordeaux,11/05/2023,25/08/2023,Création de poste,,TRUE,,hourly
+64f736ef18cd730cf4f4c827,Energies renouvelables,Lyon,04/04/2023,21/05/2023,Création de poste,,FALSE,,hourly
+64f726ed18cd730cf4f4c7e7,Formateur développement durable,Bordeaux,18/09/2023,30/06/2024,Autre,,FALSE,,hourly
+64f7262118cd730cf4f4c7e4,Hygiène et sécurité,,01/09/2023,30/06/2024,,,FALSE,,hourly
+64f725c818cd730cf4f4c7e1,Arts appliqués et culture artistique,,01/09/2023,30/06/2024,,,FALSE,,hourly
+64f7253918cd730cf4f4c7df,Technique de design en Arts sucrés,,01/09/2023,30/06/2024,,,FALSE,,hourly
+64f71b7e18cd730cf4f4c7b0,M1-S1-Droit fiscal,Lyon,27/11/2023,22/01/2024,Création ,,FALSE,,hourly
+64f6f2657f4c087e599e4395,droit des assurances,Bordeaux,01/09/2022,30/06/2023,Création de poste,,FALSE,,hourly
+64f602ac56981a517a4eb719,Réseau commutation,Angoulême,17/07/2023,19/01/2024,Remplacement d'un intervenant qui ne pourra pas continuer les cours après le 17 juillet,,FALSE,,hourly
+64f5efb756981a517a4eb6df,Marketing Ethique,Lyon,04/04/2023,21/05/2023,Création de poste,,TRUE,,hourly
+64f5cfdd5ed8b045bf48cf2e,Organisation & Management de la structure,Bordeaux,02/01/2023,31/08/2023,Création de poste,,FALSE,,hourly
+64f5cf795ed8b045bf48cf2b,Objets connectés,Bordeaux,01/02/2023,30/06/2023,Création de poste,,TRUE,,hourly
+64f5cde15ed8b045bf48cf21,Cybersécurité,Bordeaux,07/03/2023,09/03/2023,Création de poste,,TRUE,,hourly
+64f5ca585ed8b045bf48cf0e,Enjeux du numérique / management de l'innovation,Lyon,04/04/2023,21/05/2023,Création de poste,,TRUE,,hourly
+64f5c97a5ed8b045bf48cf09,Les outils de création numérique,Lyon,04/04/2023,21/05/2023,Création de poste,,TRUE,,hourly
+64f5c93c5ed8b045bf48cf08,"Normes, labels et certifications ISO 45001",Lyon,04/04/2023,21/05/2023,Création de poste,,TRUE,,hourly
+64f5c8be5ed8b045bf48cf06,Finance Durable,Lyon,14/02/2023,02/04/2023,Création de poste,,TRUE,,hourly
+64f5c89f5ed8b045bf48cf05,[TEST DEVELOPER],"Bordeaux, France",05/09/2023,23/09/2023,Remplacement,presentiel,FALSE,,daily
+64f5c8635ed8b045bf48cf03,urbanisme durable,Lyon,04/04/2023,21/05/2023,Création de poste,,TRUE,,hourly
+64f5c6e65ed8b045bf48cefc,Les COP Climats,Lyon,04/04/2023,21/05/2023,Création de poste,,FALSE,,hourly
+64f5c5f05ed8b045bf48cef3,Les COP Climats,Lyon,04/04/2023,21/05/2023,Création de poste,,FALSE,,hourly
+64f0971888afda3cddd6f748,Jury Concepteur Développeur d’Applications (CDA),Bordeaux,04/09/2023,15/09/2023,Création,,FALSE,,hourly
+64f0897e88afda3cddd6f725,Architecture Hardware,Bordeaux,01/09/2023,31/01/2024,créa,,FALSE,,hourly
+64f0890788afda3cddd6f723,PHP procédural et POO,Bordeaux,26/06/2023,26/06/2023,cré,,FALSE,,
+64f088c188afda3cddd6f720,Serveur WEB,Bordeaux,26/06/2023,26/06/2023,Créa,,FALSE,,hourly
+64f0884188afda3cddd6f719,Social Engineering,Bordeaux,02/01/2024,30/04/2024,Créa,,FALSE,,hourly
+64f073df88afda3cddd6f6df,Versionning et Repository,Bordeaux,26/06/2023,26/06/2023,Créa,,FALSE,,
+64f073a988afda3cddd6f6de,Bases de données - Conception/Administration,Bordeaux,26/06/2023,26/06/2023,Créa,,FALSE,,hourly
+64f0731188afda3cddd6f6dd,Projet tuteuré,Bordeaux,01/09/2023,31/01/2024,Créa,,TRUE,,hourly
+64f067b288afda3cddd6f6be,FINANCIAL MANAGEMENT,Lille,08/12/2023,24/05/2024,RECONDUCTION,,FALSE,,hourly
+64f0679788afda3cddd6f6bc,Web marketing e-commerce,Lille,30/05/2024,14/06/2024,RECONDUCTION,,FALSE,,hourly
+64f0544988afda3cddd6f62a,Jury Soutenance WIS 3,Bordeaux,13/09/2023,14/09/2023,Création,,FALSE,,hourly
+64f0542f88afda3cddd6f627,Jury Soutenance WIS 3,Bordeaux,13/09/2023,14/09/2023,Création,,FALSE,,hourly
+64ef658688afda3cddd6f49d,CAHT : Fondamentaux du secteur de la tech : Réseaux Télécom,Bordeaux,01/12/2023,01/01/2024,,,FALSE,,hourly
+64ef64a988afda3cddd6f49c,Formateur Bases de Données Avancées Réseau,"Mérignac, France",25/07/2023,31/07/2023,création,,FALSE,,daily
+64ef34d188afda3cddd6f3e2,Sécurité des Réseaux,Bordeaux,01/09/2023,03/06/2024,Création,,FALSE,,hourly
+64ef0b4488afda3cddd6f3bc,mathématiques BAC+1,Bordeaux,01/09/2023,30/06/2024,remplacement,,FALSE,,hourly
+64ef01b388afda3cddd6f372,Interventions sur l'entrepreneuriat,Bordeaux,10/06/2024,14/06/2024,RECONDUCTION,,FALSE,,hourly
+64ef010a88afda3cddd6f36e,se lancer dans l'entrepreneuriat : speed thinking,Bordeaux,08/04/2024,14/06/2024,reconduction,,FALSE,,hourly
+64eeffb388afda3cddd6f36b,Intervenant sur l'entrepreneuriat,Bordeaux,20/04/2023,20/04/2023,Création de poste,,FALSE,,hourly
+64ee3ba288afda3cddd6f268,gestion équipes RH,Bordeaux,17/05/2024,03/06/2024,création de poste,,FALSE,,hourly
+64ee3b6088afda3cddd6f266,gestion de crise,Bordeaux,20/02/2024,08/03/2024,création de poste,,FALSE,,hourly
+64ee3b1088afda3cddd6f264,Entretiens RH,Bordeaux,22/09/2023,14/12/2023,création de poste,,FALSE,,hourly
+64ee3afc88afda3cddd6f262,Entretiens RH,Bordeaux,22/09/2023,14/12/2023,création de poste,,FALSE,,hourly
+64ee3a2b88afda3cddd6f25f,GESTION DU RISQUE DE CHANGE,Bordeaux,18/09/2023,23/04/2024,reconduction,,FALSE,,hourly
+64ee39d488afda3cddd6f25c,GESTION DU RISQUE DE CHANGE,Bordeaux,18/09/2023,23/04/2024,reconduction,,FALSE,,hourly
+64ee399588afda3cddd6f25a,FINANCE ANGLOSAXONNE,Bordeaux,21/09/2023,22/04/2024,reconduction,,FALSE,,hourly
+64ee38d388afda3cddd6f256,Pilotage du contrôle interne,Bordeaux,16/11/2022,09/12/2022,Création de poste,,FALSE,,
+64ee387688afda3cddd6f253,Stratégie,Bordeaux,22/04/2024,26/04/2024,création,,FALSE,,hourly
+64ee37dc88afda3cddd6f250,Gestion grands comptes,Bordeaux,01/10/2023,31/05/2024,création,,FALSE,,hourly
+64ee369d88afda3cddd6f24c,Audit fiscal,Bordeaux,18/07/2023,18/07/2023,création,,FALSE,,hourly
+64ee35a288afda3cddd6f248,Management de la communication financière,Bordeaux,06/02/2023,17/04/2023,Création de poste,,FALSE,,hourly
+64edc6e888afda3cddd6f18f,Jury Soutenance WIS 3,Bordeaux,13/09/2023,14/09/2023,Création,,FALSE,,hourly
+64ecd95d364aa0079116ade2,Directeur de mémoire Bachelor _ soutenance,Bordeaux,03/03/2023,27/08/2023,RECONDUCTION,,TRUE,,hourly
+64ecd8c5364aa0079116adde,Directeur de mémoire Bachelor,Bordeaux,03/03/2023,27/08/2023,RECONDUCTION,,TRUE,,hourly
+64ecd86a364aa0079116adda,Directeur de mémoire Bachelor _ soutenance,Bordeaux,03/03/2023,27/08/2023,RECONDUCTION,,TRUE,,hourly
+64ecd7ea364aa0079116add8,Directeur de mémoire,Bordeaux,03/07/2024,27/08/2024,RECONDUCTION,,TRUE,,hourly
+64ecd657364aa0079116add2,Directeur de mémoire - soutenance,Bordeaux,03/07/2024,27/08/2024,RECONDUCTION,,FALSE,,hourly
+64ecd566364aa0079116adcf,Directeur de mémoire,Bordeaux,03/07/2024,27/08/2024,RECONDUCTION,,FALSE,,hourly
+64ecd0b2364aa0079116adc4,Méthodologie de mémoire,Bordeaux,05/04/2023,16/04/2023,Création de poste,,TRUE,,hourly
+64eccf46364aa0079116adbc,Méthodologie de mémoire,Bordeaux,01/09/2023,30/06/2024,Création de poste,,TRUE,,hourly
+64ecce37364aa0079116adb7,Grande distribution : optimisation de la fonction achats,Bordeaux,17/10/2022,15/05/2023,RECONDUCTION,,TRUE,,hourly
+64eccd27364aa0079116adb1,Grande distribution : optimisation de la fonction achats,Bordeaux,05/10/2023,04/04/2024,RECONDUCTION,,FALSE,,hourly
+64eccca2364aa0079116adae,Grande distribution : optimisation de la fonction achats,Bordeaux,,,RECONDUCTION,,FALSE,,
+64e8c02839328140f591f67c,Création d'entreprise,Bordeaux,14/04/2023,04/05/2023,Création de poste,,TRUE,,hourly
+64e8643539328140f591f58e,HADOOP,Bordeaux,08/01/2024,30/01/2024,reconduction,,FALSE,,hourly
+64e59e6439328140f591edbd,Mener des négociations en anglais (in english),Lyon,16/11/2023,10/04/2024,Création ,,TRUE,,hourly
+64e317dd911dbb2585e113f4,Economie comportementale et décision financière,Bordeaux,09/01/2024,20/02/2024,Création ,,FALSE,,hourly
+64df450d4ddf3367193b80f1,Management de projet - retour sur investissement,Lille / Arras,22/05/2023,26/05/2023,Création de poste,,TRUE,,hourly
+64df24b84ddf3367193b8022,Security Cloud et Identity Access Management,Lyon,01/09/2022,30/06/2023,Création de poste,,FALSE,,hourly
+64de47794ddf3367193b7cbb,reporting extra financier,Lyon,14/02/2023,02/04/2023,Création de poste,,TRUE,,hourly
+64de29d3ba888158e0e66bef,correction des écrits de jury de soutenances de mémoire,Nantes,13/09/2023,15/09/2023,Création de poste,,FALSE,,hourly
+64de2971ba888158e0e66beb,jury de soutenances mémoire,Nantes,13/09/2023,15/09/2023,Création de poste,,FALSE,,hourly
+64dcb0c997d6b324b741de3e,Formateur UX Design,"Mérignac, France",26/06/2023,29/06/2023,Autre,presentiel,TRUE,,daily
+64dcb0a097d6b324b741de3c,Formateur Bases de Données Avancées Réseau,"Mérignac, France",25/07/2023,31/07/2023,création,presentiel,TRUE,,daily
+64d4f0a297d6b324b741d244,Jury Soutenance ASRBD,Bordeaux,12/09/2023,15/09/2023,Création,,FALSE,,hourly
+64d0c3ce97d6b324b741c436,Droit de la propriété intellectuelle,,01/09/2023,31/05/2024,,,FALSE,,hourly
+64d0904997d6b324b741c354,Jury Soutenance ASRBD,Bordeaux,12/09/2023,15/09/2023,Création,,TRUE,,hourly
+64cd0e2b643f6b152bdacdc1,Jury Concepteur Développeur d’Applications (CDA),Bordeaux,04/09/2023,15/09/2023,Création,,FALSE,,hourly
+64cb75fc643f6b152bdaca72,GESTION DES RISQUES DE LA PROPRIETE,Bordeaux,26/02/2024,11/06/2024,Création ,,FALSE,,hourly
+64ca2a34643f6b152bdac8c8,Parfumerie,Bordeaux,01/09/2023,30/06/2024,Création,,FALSE,,hourly
+64c3e2172a54af607b9247b4,Sobriété et accessibilité,Angouleme,05/02/2024,25/03/2022,Création de poste,,FALSE,,hourly
+64c3e1b92a54af607b9247b2,Evenementiel,Angouleme,29/02/2024,26/03/2022,Création de poste,,FALSE,,hourly
+64c3e1822a54af607b9247ad,Eco-conception d'un événement,Angouleme,09/02/2024,07/06/2022,Création de poste,,FALSE,,hourly
+64c3dfd42a54af607b9247a5,Traffic Management et Growth Hacking,Angoulême,18/03/2024,17/06/2024,Création de poste,,FALSE,,hourly
+64c3df8f2a54af607b9247a2,Stratégie webmarketing,Angoulême,26/09/2023,23/01/2024,Création de poste,,FALSE,,hourly
+64c3df452a54af607b92479c,Stratégie digitale,Angoulême,19/09/2023,23/01/2024,Création de poste,,FALSE,,hourly
+64c3de302a54af607b924798,Méthode et objectifs smart,Angoulême,11/03/2024,10/06/2024,Création de poste,,FALSE,,hourly
+64c3dce72a54af607b92478c,Rédaction Web,Angoulême,09/01/2024,28/03/2024,Création de poste,,FALSE,,hourly
+64c3dc4f2a54af607b924789,Référencement SEA,Angoulême,22/03/2024,21/06/2024,Création de poste,,FALSE,,hourly
+64c3db7e2a54af607b924780,Story Telling,Angouleme,03/10/2023,19/12/2023,Création de poste,,FALSE,,hourly
+64c3db192a54af607b924779,Savoir Convaincre,Angouleme,27/09/2023,24/01/2024,Création de poste,,FALSE,,hourly
+64c3da962a54af607b924775,Relations presse,Angouleme,29/01/2024,27/05/2024,Création de poste,,FALSE,,
+64c3d9d52a54af607b924765,Stratégie de communication,Angouleme,26/09/2023,26/06/2024,Création de poste,,FALSE,,hourly
+64c239c802ad7455c86b99a1,PREVENTION DES RISQUES ET DEMARCHE QUALITÉ,Bordeaux,24/04/2023,20/06/2023,Création de poste,,FALSE,,
+64c0d12d02ad7455c86b972d,UX Guerilla testing,Toulouse,24/03/2023,16/06/2023,Création de poste,,TRUE,,hourly
+64bfe33602ad7455c86b9354,B3-S2-Finances responsables,Lyon,04/04/2024,16/05/2024,Création,,FALSE,,hourly
+64bf904e02ad7455c86b8efd,Marketing sportif : Retail et grande distribution,Bordeaux,01/09/2022,30/06/2023,Création de poste,,FALSE,,
+64bf8f3202ad7455c86b8ee7,outils de décisions statistiques,Bordeaux,01/09/2023,30/06/2024,Création de poste,,FALSE,,
+64bf8e5f02ad7455c86b8ee0,Mathématiques appliquées,Bordeaux,23/11/2023,05/06/2024,Création de poste,,FALSE,,
+64be94c502ad7455c86b8c6d,Risque de la co activité,Nantes,28/11/2023,01/12/2023,RECONDUCTION,,FALSE,,hourly
+64be946302ad7455c86b8c66,Gestion de crise,Nantes,07/11/2023,10/11/2023,RECONDUCTION,,FALSE,,hourly
+64be940402ad7455c86b8c63,Accessibilité,Nantes,23/01/2024,23/01/2024,RECONDUCTION,,FALSE,,hourly
+64be93ab02ad7455c86b8c5f,Risques professionnels,Nantes,04/10/2023,20/10/2023,RECONDUCTION,,FALSE,,hourly
+64be915502ad7455c86b8c52,Déployer et assurer le suivi qualité d’un SIRH,Bordeaux,01/09/2023,31/01/2024,Création ,,FALSE,,hourly
+64baad89044a1149b7ab9dd9,"Partager les principes clés et les mettre en application :  tenir ses engagements , s'investir au quotidien, checher à s'améliorer en permanence ...",Le Mans,01/09/2023,30/11/2023,Création de poste,,FALSE,,hourly
+64ba2c22044a1149b7ab9bd4,Formateur Culture Générale et Expressions (CGE),Bordeaux,,,Création de poste,,FALSE,,hourly
+64b7b5b984e22e017f4944f4,Jury anglais,Bordeaux,27/04/2023,27/04/2023,Créa,,TRUE,,hourly
+64b79d0584e22e017f4944b4,COMMUNITY MANAGEMENT,Bordeaux,13/11/2023,12/12/2023,RECONDUCTION,,FALSE,,hourly
+64b68c0984e22e017f4942e7,Sécurité des Réseaux,Bordeaux,01/09/2023,03/06/2024,Création,,FALSE,,hourly
+64b68b9c84e22e017f4942e4,Formateur réseaux informatiques : CISCO,Bordeaux,07/12/2022,05/01/2023,Création de poste,,TRUE,,hourly
+64b68ae484e22e017f4942e2,Formateur réseaux informatiques : Routing/Firewalling,Bordeaux,17/07/2023,31/08/2023,reconduction,,FALSE,,hourly
+64b665d786b3167b713c307a,Economie comportementale et décision financière,Bordeaux,09/01/2024,20/02/2024,Création ,,FALSE,,hourly
+64b6625586b3167b713c3069,Découverte des principaux logiciels PACK OFFICE,Bordeaux,01/09/2023,31/12/2023,Création,,FALSE,,hourly
+64b65cfc86b3167b713c3044,Jury de bachelor - Leroy Merlin,Bordeaux,27/05/2023,27/05/2023,Création de poste,,TRUE,,hourly
+64b65cbc86b3167b713c303d,Jury de bachelor - Leroy Merlin,Bordeaux,27/05/2023,27/05/2023,Création de poste,,TRUE,,hourly
+64b65cae86b3167b713c303a,Jury de bachelor - Leroy Merlin,Bordeaux,27/05/2023,27/05/2023,Création de poste,,TRUE,,hourly
+64b65ca186b3167b713c3038,Jury de bachelor - Leroy Merlin,Bordeaux,27/05/2023,27/05/2023,Création de poste,,TRUE,,hourly
+64b65c9186b3167b713c3035,Jury de bachelor - Leroy Merlin,Bordeaux,27/05/2023,27/05/2023,Création de poste,,TRUE,,hourly
+64b65c8286b3167b713c3032,Jury de bachelor - Leroy Merlin,Bordeaux,27/05/2023,27/05/2023,Création de poste,,TRUE,,hourly
+64b65c7386b3167b713c302f,Jury de bachelor - Leroy Merlin,Bordeaux,27/05/2023,27/05/2023,Création de poste,,TRUE,,hourly
+64b65c5586b3167b713c302b,Jury de bachelor - Leroy Merlin,Bordeaux,27/05/2023,27/05/2023,Création de poste,,TRUE,,hourly
+64b65c5086b3167b713c302a,Jury de bachelor - Leroy Merlin,Bordeaux,27/05/2023,27/05/2023,Création de poste,,TRUE,,hourly
+64b5697a5b32d14c2c8daa00,FINANCE INTERNATIONALE,Bordeaux,01/09/2022,31/05/2023,Création,,TRUE,,hourly
+64b568ca5b32d14c2c8da9fc,GRANDS PRINCIPES DE LA PLANIFICATION,Bordeaux,01/09/2022,31/07/2023,,,TRUE,,
+64b568805b32d14c2c8da9f9,OUTILS & ENJEUX DU CONTRÔLE DE GESTION,Bordeaux,03/10/2022,05/12/2022,Création de poste,,TRUE,,
+64b568305b32d14c2c8da9f6,PILOTAGE STRATEGIE FINANCIERE,Bordeaux,06/01/2023,03/03/2023,Création de poste,,TRUE,,hourly
+64b562c95b32d14c2c8da9d9,Fondamentaux de la finance,Bordeaux,13/03/2023,02/05/2023,Création de poste,,TRUE,,hourly
+64b552435b32d14c2c8da9a1,Audit RH du groupe,Bordeaux,22/05/2023,31/07/2023,Création de poste,,FALSE,5,daily
+64b53f145b32d14c2c8da93e,JEE : TP,Bordeaux,01/09/2023,30/06/2024,Création,,FALSE,,hourly
+64b53e715b32d14c2c8da93c,Sécurité des SI : TP,Bordeaux,01/09/2023,03/06/2024,Création,,FALSE,,hourly
+64b4f23a8e63f648f2a9a538,Jury RH Grand Oral,Bordeaux,14/06/2023,23/06/2023,Création,,TRUE,,hourly
+64b4ec4b3ada0550cb50fe22,Relations commerciales,Bordeaux,01/09/2023,30/06/2024,Création,,FALSE,,hourly
+64b0055bcb34de02d72d427f,Lancement produits / stratégie produits,bordeaux,01/01/2024,01/06/2024,créa,,FALSE,,hourly
+64afd381cb34de02d72d4218,Immobilier de luxe,Bordeaux,01/09/2023,30/06/2024,,,FALSE,,hourly
+64aed862cb34de02d72d408b,JURY GESTION DE PROJET DIGITAL,TOULOUSE,13/07/2023,13/07/2023,REMPLACEMENT,,TRUE,,hourly
+64ae7f17cb34de02d72d3fb8,Supply chain,Bordeaux,01/09/2023,30/06/2024,reconduction,,FALSE,,hourly
+64ae7e1dcb34de02d72d3fb0,Supply chain,Bordeaux,10/11/2022,30/06/2023,Création,,TRUE,,hourly
+64ae787dcb34de02d72d3fac,Jury Soutenance Infra,Bordeaux,17/07/2023,20/07/2023,Création,,FALSE,,hourly
+64ad4a13ff8744752952202d,Jury soutenance mémoire I2 DEV 1 & 2,Bordeaux,17/07/2023,21/07/2023,Création,,FALSE,,hourly
+64ad2b44ff87447529521fdf,outils de reporting,Bordeaux,10/01/2023,14/02/2024,Reconduction,,FALSE,,hourly
+64ac20e50c73164841e4cd25,Développer son univers métaverse,Toulouse,02/04/2024,13/06/2024,reconduction,,FALSE,,hourly
+64ac208e0c73164841e4cd23,Univers Métaverse et IA,Toulouse,02/04/2024,13/06/2024,reconduction,,FALSE,,
+64ac207c0c73164841e4cd22,Univers Métaverse et IA,Toulouse,02/04/2024,13/06/2024,reconduction,,FALSE,,
+64ac20780c73164841e4cd21,Univers Métaverse et IA,Toulouse,02/04/2024,13/06/2024,reconduction,,FALSE,,
+64ac14080c73164841e4cceb,Digital Management,Bordeaux ,10/07/2023,10/07/2023,Création,,FALSE,,hourly
+64ac13e30c73164841e4cce9,Digital Management,Bordeaux ,10/07/2023,10/07/2023,Création,,FALSE,,hourly
+64ac0edf0c73164841e4cca7,Digital Management,Bordeaux ,10/07/2023,10/07/2023,Création,,FALSE,,hourly
+64ac0e450c73164841e4cca1,Digital Management,Bordeaux ,10/07/2023,10/07/2023,Création,,FALSE,,hourly
+64ac0da80c73164841e4cc9e,Digital Management,Bordeaux ,10/07/2023,10/07/2023,Création,,FALSE,,hourly
+64ac0da10c73164841e4cc9d,Digital Management,Bordeaux ,10/07/2023,10/07/2023,Création,,FALSE,,hourly
+64ac0b7c0c73164841e4cc8f,INTELLIGENCE ECONOMIQUE ET PROSPECTIVE,Bordeaux,08/06/2023,08/06/2023,,,FALSE,,hourly
+64abca2e0c73164841e4cba8,Bases de données - Conception/Administration,Bordeaux,26/06/2023,26/06/2023,Créa,,FALSE,,hourly
+64abca1b0c73164841e4cba7,Serveur WEB,Bordeaux,26/06/2023,26/06/2023,Créa,,FALSE,,hourly
+64abc9ed0c73164841e4cba6,Bases de données - Conception/Administration,Bordeaux,26/06/2023,26/06/2023,Créa,,FALSE,,hourly
+64abc9e00c73164841e4cba5,Bases de données - Conception/Administration,Bordeaux,26/06/2023,26/06/2023,Créa,,FALSE,,hourly
+64abc9c20c73164841e4cba4,Social Engineering,Bordeaux,26/06/2023,26/06/2023,Créa,,FALSE,,hourly
+64abc94b0c73164841e4cba0,Formateur RH - Optimisation de la politique de rémunération,Toulouse,13/12/2021,12/01/2022,Création de poste,,FALSE,,
+64abc9410c73164841e4cb9f,Formateur RH - Méthode et outils de l’audit social,Toulouse,17/11/2022,14/12/2022,reconduction,,FALSE,,
+64abc9060c73164841e4cb9e,Droit des contrats commerciaux,"Bordeaux, France",16/05/2024,13/06/2024,reconduction +,,TRUE,,hourly
+64abc8f40c73164841e4cb9d,Droit du numérique,"Bordeaux, France",16/05/2024,13/06/2024,rreconduction,,TRUE,,hourly
+64abc8b30c73164841e4cb9c,Versionning et Repository,Bordeaux,26/06/2023,26/06/2023,Créa,,FALSE,,
+64abc8a60c73164841e4cb9b,Versionning et Repository,Bordeaux,26/06/2023,26/06/2023,Créa,,FALSE,,
+64abc87d0c73164841e4cb9a,Connaître ses moteurs de motivation,Bordeaux,01/09/2023,01/01/2024,Création,,FALSE,,hourly
+64abc8690c73164841e4cb99,Physique,Bordeaux,01/01/2024,30/05/2024,Création,,FALSE,,hourly
+64abc8520c73164841e4cb98,Sécurité des SI,Bordeaux,01/09/2023,03/06/2024,Création,,FALSE,,hourly
+64abc8210c73164841e4cb96,JEE,Bordeaux,01/09/2023,30/06/2024,Création,,FALSE,,hourly
+64abc8130c73164841e4cb95,Jury RH,Bordeaux,14/06/2023,23/06/2023,Création,,FALSE,,hourly
+64abc80c0c73164841e4cb94,Jury RH,Bordeaux,14/06/2023,23/06/2023,Création,,FALSE,,hourly
+64abc7f80c73164841e4cb93,Administrer son parc informatique en Powershell,Bordeaux,08/06/2023,08/06/2023,créa,,FALSE,,hourly
+64abc7950c73164841e4cb91,U5 MANAGEMENT DE L'ACTIVITE TECHNICO-COMMERCIALE,Bordeaux,06/09/2023,30/06/2024,Création de poste,,FALSE,,hourly
+64abc7900c73164841e4cb90,U5 MANAGEMENT DE L'ACTIVITE TECHNICO-COMMERCIALE,Bordeaux,06/09/2023,30/06/2024,Création de poste,,FALSE,,hourly
+64abc70b0c73164841e4cb8c,Construire et développer le portefeuille client,Nantes,22/01/2024,06/03/2024,Création de poste,,FALSE,,hourly
+64abc6ed0c73164841e4cb8b,"Gérer son parc informatique avec le cloud : Endpoint Manager, Microsoft 365",Bordeaux,31/01/2024,03/06/2024,créa,,FALSE,,hourly
+64abc6e90c73164841e4cb8a,"Gérer son parc informatique avec le cloud : Endpoint Manager, Microsoft 365",Bordeaux,31/01/2024,03/06/2024,créa,,FALSE,,hourly
+64abc6dc0c73164841e4cb88,CCNA Partie 2,Bordeaux,31/01/2024,30/06/2024,créa,,FALSE,,hourly
+64abc6b70c73164841e4cb87,Fidéliser le client,Nantes,22/01/2024,06/03/2024,Création de poste,,FALSE,,
+64abc6b40c73164841e4cb86,CCNA Partie 1,Bordeaux,01/09/2023,31/01/2024,créa,,FALSE,,hourly
+64abc69b0c73164841e4cb85,Méthodologie d'organisation du travail,Bordeaux,01/09/2023,31/01/2024,créa,,FALSE,,hourly
+64abc67e0c73164841e4cb84,Gestion de parc informatiques,Bordeaux,01/09/2023,31/01/2024,créa,,FALSE,,hourly
+64abc6640c73164841e4cb83,Les systèmes d'exploitation Windows et Linux,Bordeaux,01/09/2023,31/01/2024,créa,,FALSE,,hourly
+64abc6520c73164841e4cb82,Option Creation Design : Prise de Vue / Motion Design,Bordeaux,01/09/2023,30/01/2024,Création,,FALSE,,hourly
+64abc6410c73164841e4cb81,Motion Design,Bordeaux,01/02/2024,30/06/2023,Création,,FALSE,,hourly
+64abc59e0c73164841e4cb7c,gestion clients et l’administration des ventes,Nantes,22/01/2024,06/03/2024,Création de poste,,FALSE,,hourly
+64abc52f0c73164841e4cb79,Import / Export,Bordeaux,28/08/2023,31/07/2024,Création de poste,,FALSE,,hourly
+64a991630c73164841e4c964,Jury pour Oraux d'examen - Anglais,Bordeaux,15/06/2023,15/06/2023,Création,,TRUE,,daily
+64a990300c73164841e4c960,"Encadrer les aspects juridiques des projets de créations/développement (structure juridique, marques, brevets, …)",Bordeaux,19/06/2023,23/06/2023,Création de poste,,TRUE,,hourly
+64a6cab4e0843b7be97f5d64,formateur en anglais BTS CI 1,Bordeaux,29/08/2022,31/07/2023,Création de poste,,TRUE,,hourly
+64a6c79de0843b7be97f5d55,formateur en anglais BTS CI 1,Bordeaux,,,RECONDUCTION,,FALSE,,hourly
+64a6bb5de0843b7be97f5d24,Sélectionner une plateforme logistique,Lyon,30/11/2023,14/12/2023,Création de poste,,FALSE,,hourly
+64a57f0ce0843b7be97f5ac3,Assistant(e) administratif opérationnel,Bordeaux,,,Création de poste,,FALSE,1,daily
+64a44b4ee0843b7be97f573c,Assistant(e) administratif opérationnel,Bordeaux,01/03/2022,,Création de poste,,FALSE,1,daily
+64a3edc9e0843b7be97f560d,M1-S1-Droit fiscal,Lyon,27/11/2023,22/01/2024,Création ,,FALSE,,hourly
+64a3e99ee0843b7be97f55ea,Etudes de marché,Aix-Marseille,27/11/2023,22/01/2024,Création,,FALSE,,hourly
+64a2c777e0843b7be97f5409,M1-S1-Droit fiscal,Lyon,27/11/2023,22/01/2024,Création ,,FALSE,,
+64a2a55de0843b7be97f539c,BUSINESS MANAGEMENT,Lille,21/04/2023,16/06/2023,Création,,TRUE,,hourly
+64a2a52fe0843b7be97f539b,BUSINESS MANAGEMENT,Lille,21/04/2023,16/06/2023,Création,,TRUE,,hourly
+64a29824e0843b7be97f536d,BUSINESS MANAGEMENT,Lille,21/04/2023,16/06/2023,Création,,FALSE,,hourly
+649db5eee0843b7be97f4b90,Jury de bachelor - Leroy Merlin,Bordeaux,30/06/2023,30/06/2023,Création de poste,,TRUE,,hourly
+649db5e7e0843b7be97f4b8d,Jury de bachelor - Leroy Merlin,Bordeaux,30/06/2023,30/06/2023,Création de poste,,TRUE,,hourly
+649db265e0843b7be97f4b86,Mentor HAckaton-Spécialité Infra,"Bordeaux, France",04/07/2023,04/07/2023,Création,presentiel,TRUE,,hourly
+649c013ee0843b7be97f47db,Connaissance du métier de la collecte de déchets,Bordeaux,22/06/2023,23/06/2023,création,,TRUE,,hourly
+649ad01ee0843b7be97f4545,BUSINESS MANAGEMENT,Lille,21/04/2023,16/06/2023,Création,,FALSE,,hourly
+649acfe8e0843b7be97f4544,BUSINESS MANAGEMENT,Lille,21/04/2023,16/06/2023,Création,,FALSE,,hourly
+649acfd6e0843b7be97f4543,BUSINESS MANAGEMENT,Lille,21/04/2023,16/06/2023,Création,,FALSE,,hourly
+649abce0e0843b7be97f451d,BUSINESS MANAGEMENT,Lille,21/04/2023,16/06/2023,Création,,FALSE,,hourly
+649abc9de0843b7be97f451c,BUSINESS MANAGEMENT,Lille,21/04/2023,16/06/2023,Création,,FALSE,,hourly
+649abc5ae0843b7be97f451b,BUSINESS MANAGEMENT,Lille,21/04/2023,16/06/2023,Création,,FALSE,,hourly
+64955ad0be132659d9fe2b35,Parcours libre : la bourse et le trading,Bordeaux,23/10/2023,26/10/2023,création,,FALSE,,hourly
+649558aebe132659d9fe2b2e,Formateur en Évènementiel,Bordeaux,17/10/2023,22/05/2024,Creation,Presentiel,FALSE,,hourly
+64953c7abe132659d9fe2ad8,Parcours libre : No code,Bordeaux,16/10/2023,20/10/2023,création ,,FALSE,,hourly
+6494436dbe132659d9fe28f1,majeure Référencement et Web marketing,Bordeaux,14/03/2024,19/04/2024,Création de poste,,FALSE,,hourly
+64944234be132659d9fe28e7,"majeure Business Dev, E-marketing et CRM",Bordeaux,05/01/2023,06/01/2023,Création de poste,,TRUE,,hourly
+64931470be132659d9fe2618,COMMUNITY MANAGEMENT,Bordeaux,11/04/2023,05/05/2023,REMPLACEMENT,,TRUE,,hourly
+64906645be132659d9fe201f,Introduction aux concepts du Ethical Hacking,Bordeaux,19/06/2023,19/06/2023,Création,,FALSE,,
+6490533bbe132659d9fe1fa6,Bureautique et informatique de gestion,,21/06/2023,21/06/2023,Remplacement,,FALSE,,hourly
+648c66a2bf50bf6e8c8e4aff,PSE (prévention santé environnement),Bordeaux,03/05/2023,03/05/2023,Création ,,FALSE,,hourly
+648c63bcbf50bf6e8c8e4af3,Business English,Bordeaux,04/09/2023,28/06/2024,Création ,,FALSE,,hourly
+6489da02bf50bf6e8c8e45d7,Jury RH,Bordeaux,14/06/2023,23/06/2023,Création,,FALSE,,hourly
+6489950c16b46110c144d2a9,Gestion opérationnelle et commercial d’un E-commerce,Bordeaux,23/01/2024,26/02/2024,,,FALSE,,hourly
+6488438916b46110c144cf48,Parcours Libre Technologique : Cryptomonnaies,Bordeaux,30/09/2023,02/05/2024,Création,,TRUE,,hourly
+6488416c16b46110c144cf3c,Marketing Mobile (format design ux et référencement ),bordeaux,13/06/2023,13/06/2023,Création,,FALSE,,hourly
+648349270f428d0ac2be0738,Soutenance de mémoire et correction rapport de synthèse,Bordeaux,07/07/2023,07/07/2023,création,,FALSE,,
+648198c40a45f03a65e00ec2,Digital Management,bordeaux,28/02/2024,22/03/2024,création,,FALSE,,hourly
+648196b80a45f03a65e00eb5,Marketing de l'innovation,Bordeaux,26/01/2023,06/02/2024,création,,FALSE,,hourly
+6481933a0a45f03a65e00e9f,E-CRM,Bordeaux,10/06/2024,13/06/2024,,,FALSE,,hourly
+647da97c0a45f03a65e0057b,Jury Grand Oral,Bordeaux,14/06/2023,14/06/2023,Création,,TRUE,,hourly
+647c7eeb0a45f03a65e00401,"Jury ""entretien professionnel"" : rapports d'activité",Bordeaux,,,Création,,FALSE,,
+647a4b110a45f03a65e0017c,Droit du numérique,"Bordeaux, France",,,Création,distanciel,TRUE,,hourly
+6479af479604a319f621a082,Culture de l’innovation et nouvelles technologie (IA / NFT ),Bordeaux,13/02/2024,22/03/2024,Création,,FALSE,,
+6479addc9604a319f621a07a,Entreprenariat digital,Bordeaux,01/10/2023,29/02/2024,"Créatio, ",,FALSE,,
+6479aae79604a319f621a072,Introduction à l'entrepreneuriat - parcours - événements juridiques - trouver des fonds,Bordeaux ,02/06/2023,02/06/2023,Création,,FALSE,,
+6479a7569604a319f621a067,Initiation au développement web (html + CSS),Bordeaux,02/06/2023,02/06/2023,Création,,FALSE,,
+6479a6119604a319f621a059,No code,Bordeaux,12/02/2024,14/02/2024,Création ,,FALSE,,
+6479a1a59604a319f621a03c,Communication / organisation événementiel,Bordeaux,02/06/2023,02/06/2023,Création,,FALSE,,hourly
+6477573e445e3d50d9d1018b,Formateur Culture Générale et Expressions (CGE),Bordeaux,,,Creation,,FALSE,,
+64775294445e3d50d9d10180,Entreprenariat digital,Bordeaux,31/05/2023,31/05/2023,Création ,,FALSE,,
+64774f97445e3d50d9d1016f,Introduction à l'entreprenariat - parcours - événements juridiques - trouver des fonds,Bordeaux,09/02/2024,15/03/2024,Création ,,FALSE,,
+64760131445e3d50d9d0ff78,Coaching Métaverse,Bordeaux,19/04/2023,21/04/2023,Création de poste,,FALSE,,hourly
+64633b6bf1f6ab046a9b6092,Formateur Comprendre les enjeux métiers : Directeur Administratif et Financier (DAF),Bordeaux,14/06/2023,14/06/2023,Création de poste,,FALSE,,
+644a76068eb450085c331d1a,Directrice•teur admistratif et financier,"Bordeaux, France",,,,,FALSE,,daily
+644951658eb450085c331a14,Assurer la Gestion administrative du personnel,Le Mans,01/06/2023,31/12/2023,Création de poste,,FALSE,,hourly
+644940578eb450085c331a09,C13 : Gestion administrative du personnel (1 niveau),Le Mans,,,Création de poste,,FALSE,,
+64493fa48eb450085c331a03,C15 : Relations sociales (2 Niveaux),Le Mans,30/06/2023,31/12/2023,remplacement,,FALSE,,hourly
+6447861cac36522eab56cf1a,Gestion des prestataires et fournisseurs logistiques,Bordeaux,25/05/2023,13/06/2023,RECONDUCTION,,TRUE,,hourly
+643566b995cfbe13649d4ce3,Comptabilité immobilière,Bordeaux,13/04/2023,13/04/2023,Création de poste,,FALSE,,
+63c18d7fe4ad4526084999ca,Expert UX UI,Bordeaux,,,,,,,daily
+63c18d75e4ad4526084999c9,Expert UX UI,Bordeaux,,,,,TRUE,,daily
+6393494ec2ac7675f0504ca8,Formateur stratégie éditoriale : mettre en place un plan éditorial,BORDEAUX,12/12/2022,13/12/2022,Remplacement,,TRUE,,
+63934947c2ac7675f0504ca6,Formateur stratégie éditoriale : mettre en place un plan éditorial,BORDEAUX,12/12/2022,13/12/2022,Remplacement,,TRUE,,
+637e33c85611a441750a5bab,Gestion de la relation client,"Nantes, France",24/10/2022,26/11/2022,Remplacement,presentiel,,,
+6365376f63803607b5161e26,Co-jury Bootcamp,"Bordeaux, France",10/11/2022,10/11/2022,Création,presentiel,,,
+6365375363803607b5161e23,Co-jury Bootcamp,"Bordeaux, France",10/11/2022,10/11/2022,Création,presentiel,,,
+6365373f63803607b5161e20,Co-jury Bootcamp,"Bordeaux, France",10/11/2022,10/11/2022,Création,presentiel,,,
+6365324863803607b5161e0e,Co-jury Bootcamp,"Bordeaux, France",10/11/2022,10/11/2022,Création,presentiel,TRUE,,
+6365324363803607b5161e0b,Co-jury Bootcamp,"Bordeaux, France",10/11/2022,10/11/2022,Création,presentiel,,,
+6331aa0386a6612f5c1fee25,Formateur Projet et Pratique de la Communication,"58 Rue de Marseille, Bordeaux, France",28/09/2022,30/06/2023,Création,presentiel,,,
+6331a9e286a6612f5c1fee22,Formateur Projet et Pratique de la Communication,"58 Rue de Marseille, Bordeaux, France",28/09/2022,30/06/2023,Création,presentiel,,,
+632485a13acb9b4d5764ed46,Conference english,"Nantes, France",10/10/2022,26/11/2022,Création,presentiel,TRUE,,
+6324856d3acb9b4d5764ed43,Conference english,"Nantes, France",10/10/2022,26/11/2022,Création,presentiel,,,
+6311c25b6977227acbbbe6f9,Spécialiste réseaux informatiques,"Bordeaux, France",05/12/2022,20/01/2023,Création,presentiel,TRUE,,
+6310b2a41acadb22d66bd772,Formateur CEJM,"Rue de Marseille, Bordeaux, France",08/09/2022,21/07/2023,Remplacement,presentiel,,,
+630c8e0f47b68d445cd21c08,Formateur Technique du batiment,"Bordeaux, France",07/10/2022,28/02/2023,Autre,presentiel,,,
+630c7b4c47b68d445cd21bf5,Formateur Technique du batiment,"Bordeaux, France",07/10/2022,28/02/2023,Autre,presentiel,,,
+6308bd0d47b68d445cd21807,Formateur Informatique de gestion,Bordeaux,10/10/2022,15/04/2023,Autre,PRESENTIEL,,,
+63089d5c47b68d445cd217d5,Formateur Informatique de gestion,Bordeaux,10/10/2022,15/04/2023,Autre,PRESENTIEL,,,
+62e295b0da1b4c117df10358,Professeur d'Anglais : professionnal english & ENGLISH CERTIFICATION,"Nantes, France",01/09/2022,01/06/2023,Création,presentiel,,,
+62df94b5f5e6794d89e1e48c,Entrepreneuriat vs intrapreneuriat,"Lille, France",13/02/2023,01/04/2023,Création,presentiel,,,
+62d9262ef5e6794d89e1dcf4,économie de l'environnement,"Lille, France",13/02/2023,01/04/2023,Création,presentiel,,,
+62d80d27f5e6794d89e1dc17,coaching,"Bordeaux, France",05/09/2022,01/06/2023,Autre,presentiel,TRUE,,
+62ce81c6c43a1c07852b7322,Communication Digitale,"Lille, France",03/04/2023,20/05/2023,Création,presentiel,,,
+62c2bac703f9d052cb43fe22,Cybersécurité,"Lille, France",11/11/2022,28/01/2023,Création,presentiel,,,
+62962a6c1fbb047964271fa9,[TEST] Jury RH avec Ezé,"Bordeaux-Lac, Bordeaux, France",31/05/2022,16/06/2022,Remplacement,distanciel_plus_presentiel_minus,,,
+629623681fbb047964271f8a,[TEST] Formateur UX,"Marseille, France",12/09/2022,17/10/2022,Création,presentiel,TRUE,,
+629614481fbb047964271f54,Maths - Gestion,"Nantes, France",01/09/2022,30/09/2022,Création,presentiel,,,
+628e49b01fbb04796427197c,Formateur Big Data,"Bordeaux, France",12/12/2022,16/12/2022,Création,presentiel_plus_distanciel_minus,,,
+628e40d01fbb047964271977,Formateur Cybersécurité,Bordeaux,12/10/2022,16/11/2022,Création,presentiel_plus_distanciel_minus,,,
+628ccb8d8cd3654f4645a076,Logistique et grande distribution,bordeaux,9/05/2022,7/06/2022,Autre,,TRUE,,
+627123ea92c2ec2a7d267a03,jury d'admission master,"Bordeaux, France",03/05/2022,03/05/2022,Création,presentiel,TRUE,,
+6271230a92c2ec2a7d2679fc,jury d'admission master,"Bordeaux, France",03/05/2022,03/05/2022,Création,presentiel,TRUE,,
+623dd2e08135b2295c1400e9,CONTROLE DE GESTION BIS,"Bordeaux, France",28/03/2022,29/03/2022,Remplacement,presentiel,,,
+623c45418135b2295c13ff57,Formateur en contrôle de gestion,"Bordeaux, France",28/03/2022,29/03/2022,Remplacement,presentiel,,,
+61e7e8ef41979a0867313e31,[TEST DEV] Jury Développeur Web Accrédité CDA,"Bordeaux, France",24/01/2022,28/01/2022,Création,presentiel,TRUE,,
+61dd96dbf18aaa130b6cce5d,>>TEST<< Jury MSPR DEV,"Bordeaux, France",12/01/2022,13/01/2022,Création,,TRUE,,
+61dd5f82f18aaa130b6cce0a,[TEST DEV] Annonce de test,"Talence, France",20/01/2022,28/01/2022,Remplacement,,TRUE,,
+61c4595cca71a24b561b7511,Développeur Web Full Stack,"Bordeaux, France",01/01/2022,30/06/2022,Création,,TRUE,,
+61c3c47eca71a24b561b746f,[Test DEV] Formation cybersécurité H/F,"Bordeaux, France",24/12/2021,13/01/2022,Remplacement,,TRUE,,

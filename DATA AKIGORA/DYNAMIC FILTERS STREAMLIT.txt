@@ -1,0 +1,45 @@
+Fairly simple wrapper for st.multiselect' which uses st.session_state and st.experimental_rerun under the hood to show only relevant values in filter options and dynamically filter a dataframe (similar to Google Sheets slicers or Only Relevant Values in Tableau behaviour).
+
+Check out the demo app here - Dynamic Filters Demo App 146
+
+How to install and use the package:
+
+Install the package using pip 18:
+pip install streamlit-dynamic-filters
+
+Import the DynamicFilters class:
+from streamlit_dynamic_filters import DynamicFilters
+
+Create an instance of the DynamicFilters class and pass the dataframe and the list of fields that will serve as filters:
+
+dynamic_filters = DynamicFilters(df, filters=['col1', 'col2', 'col3', 'col4'])
+
+Display the filters in your app:
+dynamic_filters.display_filters()
+
+Display the filtered dataframe:
+dynamic_filters.display_df()
+
+Demo GIF:
+
+
+Sample usage:
+
+import streamlit as st
+from streamlit_dynamic_filters import DynamicFilters
+
+data = {
+    'Region': ['North America', 'North America', 'North America', 'Europe', 'Europe', 'Asia', 'Asia'],
+    'Country': ['USA', 'USA', 'Canada', 'Germany', 'France', 'Japan', 'China'],
+    'City': ['New York', 'Los Angeles', 'Toronto', 'Berlin', 'Paris', 'Tokyo', 'Beijing']
+    }
+
+df = pd.DataFrame(data)
+
+dynamic_filters = DynamicFilters(df, filters=['Region', 'Country', 'City'])
+
+with st.sidebar:
+    dynamic_filters.display_filters()
+
+dynamic_filters.display_df()
+Any feedback is much appreciated :innocent: Hopefully, it’ll be useful for someone, personally I’ve been struggling with if/else logic to make the filters dynamic and our users had to only apply them from top to bottom, so being able to use session state is a game changer for me.

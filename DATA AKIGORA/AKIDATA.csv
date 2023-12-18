@@ -1,0 +1,166 @@
+Indicateurs,Commentaires,Précisions sur les datas à utiliser
+Nb. d'experts inscrits sur la plateforme,Nb. d'experts inscrits sur la plateforme,"{
+			collection: 'profile',
+			data: {
+				type: 'expert',
+				createdAt: 'timestamp',
+			},
+		}"
+Nb. d'experts désinscrits,,"{
+			collection: 'user',
+			data: {
+				email: 'removed@akigora.com',
+			},
+		}"
+Nb. d'experts visibles sur la plateforme ,Experts avec un taux de complétion de 100% et qui ont réalisé leur entretien,"{
+			collection: 'profile',
+			data: {
+				type: 'expert',
+				done: true,
+				visible: true,
+				isFake: false,
+				temporarilyInvisible: false,
+			},
+		}"
+% d'experts à profil complété à 100% ,,"{
+                        collection: 'profile',
+                        data: {
+                                type: 'expert',
+                                done: true,
+                                isFake: false,
+                                percentage: 100,
+                        },
+                }"
+% d'experts à profil non complété ,Avoir la possibilité d'avoir une liste à partir d'un clic sur un bouton,"{
+                        collection: 'profile',
+                        data: {
+                                type: 'expert',
+                                done: true,
+                                isFake: false,
+                                percentage: <100,
+                        },
+                }"
+% d'experts par domaine d'intervention ,,"{
+                        collection: 'profile',
+                        data: {
+                                type: 'expert',
+                                sector: ""dynamic_value""
+                        },
+                }"
+% d'experts par ville ,,"{
+                        collection: 'profile',
+                        data: {
+                                type: 'expert',
+                                location: ""dynamic_value"",
+                                geo: {...}
+                        },
+                }"
+% d'experts par région,,"{
+                        collection: 'profile',
+                        data: {
+                                type: 'expert',
+                                location: ""dynamic_value"",
+                                geo: {...}
+                        },
+                }"
+ % d'entretiens passés ,,"{
+                        collection: 'profile',
+                        data: {
+                                type: 'expert',
+                                done: ""true/false""                       
+                      },
+                }"
+ % d'experts sans référence,Avoir la possibilité d'avoir une liste à partir d'un clic sur un bouton,"{
+                        collection: 'profile',
+                        data: {
+                                type: 'expert',
+                                done: ""true/false""                       
+                      },
+                }"
+ % d'experts qui ont complété le champ 'Références',,"{
+                        collection: 'profile',
+                        data: {
+                                type: 'expert',
+                                references: ""false / empty""
+                      },
+                }"
+ % d'experts pour lesquels les références ont été contactées ,,La data n'est pas disponible
+ % d'experts évalués,,"[
+                        {
+                                collection: 'profile',
+                                data: {
+                                        type: 'expert',
+                                },
+                        },
+                        {
+                                collection: 'intervention',
+                                data: {
+                                        expertId: 'id_from_profile',
+                                        evaluation: ""field_exist""
+                                },
+                        },
+                ]"
+Note d'évaluation par expert,,"[
+                        {
+                                collection: 'profile',
+                                data: {
+                                        type: 'expert',
+                                },
+                        },
+                        {
+                                collection: 'intervention',
+                                data: {
+                                        expertId: 'id_from_profile',
+                                        evaluation: {
+                                                note_communication: 0,
+                                                note_quality: 2.5,
+                                                note_level: 5,
+                                        },
+                                },
+                        },
+                ];"
+Note d'évaluation moyenne globale,,"{
+                                collection: 'intervention',
+                                data: {
+                                        evaluation: {
+                                                note_communication: 0,
+                                                note_quality: 2.5,
+                                                note_level: 5,
+                                        },
+                                },
+                        }"
+Nb. d'exemples de missions renseignées,,"{
+                                collection: 'mission_examples',
+                        }"
+ % d'experts avec des warning,Avoir la possibilité d'avoir une liste à partir d'un clic sur un bouton," {
+                        collection: 'qualification_interview',
+                        data: {
+                                warning_alert: 'field_exist_and_not_empty',
+                        },
+                }"
+ % d'experts recommandés,,"[
+                        {
+                                collection: 'profile',
+                                data: {
+                                        type: 'expert',
+                                },
+                        },
+                        {
+                                collection: 'recommandation',
+                                data: {
+                                        expertId: 'id_from_profile',
+                                },
+                        },
+                ]"
+Nb. de recommandations,," {
+                                collection: 'recommandation',
+                        },"
+ % d'experts qui ont utilisé linkedin pour renseigner leur profil,,"{
+			collection: 'profile',
+			data: {
+				linkedInImport: 'field_exist',
+			},
+		}"
+Historique des tarifs des missions par expert,,
+Experts connectés en temps réel,,La data n'est pas disponible
+Les dernières connexions d'un expert ,,La data n'est pas disponible
