@@ -7,7 +7,7 @@ from streamlit_echarts import st_echarts
 
 def run(df):
     # Chargement des données (remplissez le chemin du fichier CSV)
-    df = pd.read_csv('OneDrive/Documents/AKIGORA RAPPORT/DATA AKIGORA/AkiEXPERT.csv')
+    df = pd.read_csv('DATA AKIGORA/AkiEXPERT.csv')
 
     # Visualisation : Répartition des experts par domaine d'intervention avec Plotly
     fig2 = px.pie(df, names='sectors', title="Répartition des experts par domaine d'intervention", labels={'sectors': 'Domaine d\'intervention'})
