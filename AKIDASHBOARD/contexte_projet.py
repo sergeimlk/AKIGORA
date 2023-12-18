@@ -20,7 +20,7 @@ def run():
     col_texte.write("\n")
 
     # Colonne du logo à droite
-    logo_path = "OneDrive/Documents/AKIGORA RAPPORT/DATA AKIGORA/SIMP.png"
+    logo_path = "DATA AKIGORA/SIMP.png"
     logo = Image.open(logo_path)
     col_logo.image(logo, use_column_width=True, caption="")
 
