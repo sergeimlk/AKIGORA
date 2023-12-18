@@ -11,7 +11,7 @@ def run(df):
     df_counts = df[df['type'] == 'expert'].groupby('sectors').size().reset_index(name='expertCount')
 
     # Chargement des données
-    df = pd.read_csv(r'OneDrive/Documents/AKIGORA RAPPORT/DATA AKIGORA/AkiEXPERT.csv')
+    df = pd.read_csv(r'DATA AKIGORA/AkiEXPERT.csv')
 
     # Regrouper les données de Paris, Paris Île-de-France, Paris et périphérique dans une seule catégorie "Paris"
     df['location_grouped'] = df['location'].replace({'Paris Île-de-France': 'Paris', 'Paris et périphérique': 'Paris'})
