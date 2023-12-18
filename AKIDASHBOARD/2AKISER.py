@@ -16,11 +16,11 @@ from PIL import Image
 import pygame
 pygame.init()
 
+def play_mp3(audio_file):
+    pygame.mixer.music.load(audio_file)
+    pygame.mixer.music.play()
+    pygame.event.wait()  # Attend la fin de la musique
 
-def play_mp3(file_path):
-    mixer.init()
-    mixer.music.load(file_path)
-    mixer.music.play()
 
 # Utilisez la fonction pour jouer le fichier MP3
 audio_file = r"AKIGORADASHBOARD/DATA AKIGORA/AKIDASH ELEVENLABS.mp3"
