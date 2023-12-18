@@ -14,7 +14,7 @@ st.set_page_config(page_title="AKIGORA DASHBOARD", layout="wide", initial_sideba
 
 
 # Ajouter le logo dans la barre latérale et réduire la taille de 30%
-logo_path = r"AKIGORA/DATA AKIGORA/2LOGO.PNG"
+logo_path = r"DATA AKIGORA/2LOGO.png"
 logo = Image.open(logo_path)
 logo_resized = logo.resize((int(logo.width * 1), int(logo.height * 1)))  # Réduire de 30%
 st.sidebar.image(logo_resized, use_column_width=True)
@@ -29,7 +29,7 @@ import remerciements
 
 # Charger les données
 #df = pd.read_csv(r'OneDrive/Documents/AKIGORA RAPPORT/DATA AKIGORA/AkiEXPERT.csv')
-df = pd.read_csv(r'AKIGORA/DATA AKIGORA/AkiEXPERT.csv')
+df = pd.read_csv(r'DATA AKIGORA/AkiEXPERT.csv')
 
 st.sidebar.title("📊 AKIGORA DASHBOARD")
 
