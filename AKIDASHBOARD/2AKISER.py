@@ -13,6 +13,9 @@ from streamlit_echarts import st_echarts
 
 from pygame import mixer
 from PIL import Image  
+import pygame
+pygame.init()
+
 
 def play_mp3(file_path):
     mixer.init()
