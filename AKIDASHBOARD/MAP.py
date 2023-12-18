@@ -5,7 +5,7 @@ import json
 
 def run():
     # Charger le DataFrame
-    df = pd.read_csv('OneDrive/Documents/AKIGORA RAPPORT/DATA AKIGORA/AkiEXPERT.csv')
+    df = pd.read_csv('AKIGORADASHBOARD/DATA AKIGORA/AkiEXPERT.csv')
 
     # Fonction pour extraire les coordonnées
     def extract_coordinates(geo):
