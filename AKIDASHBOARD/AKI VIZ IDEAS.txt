@@ -1,0 +1,67 @@
+# Page "🚀Contexte du projet"
+
+## Évolution du nombre d'experts inscrits sur la plateforme au fil du temps
+**Indicateur :** Nb. d'experts inscrits sur la plateforme  
+**Commentaires :** Visualisez la croissance du nombre d'experts au fil du temps.  
+**Précisions sur les datas :** Utilisez la collection 'profile' avec le type 'expert' et la date de création 'createdAt'.
+
+## Répartition des experts par domaine d'intervention
+**Indicateur :** % d'experts par domaine d'intervention  
+**Commentaires :** Analysez la diversité des domaines d'intervention des experts.  
+**Précisions sur les datas :** Utilisez la collection 'profile' avec le type 'expert' et le champ 'sector'.
+
+# Page "👥Département RH"
+
+## 1. Répartition des experts par niveau d'études
+- Graphique à barres horizontales (horizontal bar chart) montrant le pourcentage d'experts par niveau d'études.
+- Diagramme en secteurs (pie chart) illustrant la répartition des experts par niveau d'études.
+
+## 2. Expérience des experts dans le secteur de l'enseignement/recherche/formation
+- Graphique en ligne (line chart) montrant l'évolution de l'expérience des experts dans ce secteur au fil du temps.
+- Histogramme illustrant la distribution de l'expérience des experts dans ce secteur.
+
+## 3 Taux de complétion du profil des experts
+**Indicateur :** % d'experts à profil complété à 100%  
+**Commentaires :** Suivez le taux de complétion des profils des experts.  
+**Précisions sur les datas :** Utilisez la collection 'profile' avec le type 'expert' et le champ 'percentage' à 100.
+
+## 4 Répartition des experts par ville
+**Indicateur :** % d'experts par ville  
+**Commentaires :** Visualisez la répartition géographique des experts.  
+**Précisions sur les datas :** Utilisez la collection 'profile' avec le type 'expert', le champ 'location', et les données géographiques.
+
+## 5 Répartition géographique des experts du département RH :**
+   - Carte interactive (interactive map) montrant la localisation des experts du département RH.
+   - Graphique à barres (bar chart) illustrant la répartition des experts par région ou par pays.
+
+
+
+# Page "💼Département Commerce"
+
+## Nombre d'experts évalués
+**Indicateur :** % d'experts évalués  
+**Commentaires :** Suivez le pourcentage d'experts ayant reçu des évaluations.  
+**Précisions sur les datas :** Utilisez les collections 'profile' et 'intervention' pour détecter la présence d'évaluations.
+
+## Note d'évaluation moyenne globale
+**Indicateur :** Note d'évaluation moyenne globale  
+**Commentaires :** Analysez la satisfaction globale des clients vis-à-vis des experts.  
+**Précisions sur les datas :** Utilisez la collection 'intervention' avec les champs de notes.
+
+
+## Page "🚀Contexte du projet"
+
+1. **Évolution du nombre d'experts inscrits sur la plateforme au fil du temps :**
+   - Graphique en ligne (line chart) montrant le nombre d'experts inscrits au fil des mois/années.
+   - Graphique à barres (bar chart) illustrant la croissance du nombre d'experts par trimestre ou par année.
+
+2. **Répartition des experts par domaine d'intervention :**
+   - Graphique circulaire (pie chart) affichant la répartition en pourcentage des experts par domaine d'intervention.
+   - Graphique à barres empilées (stacked bar chart) montrant la répartition des experts par domaine au fil du temps.
+
+3. **Analyse de la diversité des domaines d'intervention des experts :**
+   - Carte choroplèthe (choropleth map) illustrant la répartition géographique des experts par domaine d'intervention.
+   - Nuage de mots (word cloud) mettant en évidence les domaines d'intervention les plus courants à l'aide de la taille des mots.
+
+
+
