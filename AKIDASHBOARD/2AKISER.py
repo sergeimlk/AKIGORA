@@ -1,6 +1,3 @@
-# streamlit run "C:/Users/Proprietaire/OneDrive/Documents/AKIGORA RAPPORT/AKIDASHBOARD/2AKISER.py"
-# streamlit run "C:/Users/Megaport/OneDrive/Documents/AKIGORA RAPPORT/AKIDASHBOARD/2AKISER.py"
-
 import numpy as np
 import pandas as pd
 import seaborn as sns
