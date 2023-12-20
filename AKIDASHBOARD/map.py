@@ -42,7 +42,7 @@ def run():
                 get_position='[longitude, latitude]',
                 radius=20000,
                 elevation_scale=150,
-                elevation_range=[0, 10000],
+                elevation_range=[0, 7000],
                 pickable=True,
                 extruded=True,
                 get_fill_color="[255, 165, 0]",  # Couleur orange en format RGB
