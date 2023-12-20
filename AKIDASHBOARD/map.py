@@ -23,7 +23,7 @@ def run():
     df[['latitude', 'longitude']] = df[['longitude', 'latitude']]
 
     # Afficher le DataFrame résultant
-    st.dataframe(df[['latitude', 'longitude']])
+    # st.dataframe(df[['latitude', 'longitude']])
 
     # Afficher la carte avec Pydeck
     st.pydeck_chart(pdk.Deck(
