@@ -42,7 +42,7 @@ def run():
                 'HexagonLayer',
                 data=df,
                 get_position='[longitude, latitude]',
-                radius=2000,
+                radius=20000,
                 elevation_scale=40,
                 elevation_range=[0, 25000],
                 pickable=True,
