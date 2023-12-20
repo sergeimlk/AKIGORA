@@ -47,9 +47,7 @@ def run():
                 extruded=True,
                 get_fill_color="[255, 165, 0]",  # Couleur orange en format RGB
             ),
-        ],
-    )),
-            # ScatterplotLayer for individual data points
+            # ScatterplotLayer pour les points de données individuels
             pdk.Layer(
                 'ScatterplotLayer',
                 data=df,
@@ -58,7 +56,9 @@ def run():
                 get_color='[200, 30, 0, 160]',
                 get_elevation='quantity',
                 pickable=True,
-    
+            ),
+        ],
+    ))
 
 # Vérifiez si le script est exécuté directement (non importé en tant que module)
 if __name__ == "__main__":
