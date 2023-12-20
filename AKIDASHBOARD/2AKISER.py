@@ -21,12 +21,12 @@ st.sidebar.image(logo_resized, use_column_width=True)
 
 import contexte_projet
 import departement_rh
-import MAP
+import map
 import departement_direction
 import departement_marketing
 import departement_technique
 import remerciements
-import CV
+import cv
 
 # Charger les données
 #df = pd.read_csv(r'OneDrive/Documents/AKIGORA RAPPORT/DATA AKIGORA/AkiEXPERT.csv')
@@ -43,7 +43,7 @@ if page == pages[0]:
 elif page == pages[1]:
     departement_rh.run(df)
 elif page == pages[2]:
-    MAP.run()
+    map.run()
 elif page == pages[3]:
     departement_direction.run(df)
 elif page == pages[4]:
@@ -53,6 +53,6 @@ elif page == pages[5]:
 elif page == pages[6]:
     remerciements.run(df)
 elif page == pages[7]:
-    CV.run(df)
+    cv.run(df)
     
     
