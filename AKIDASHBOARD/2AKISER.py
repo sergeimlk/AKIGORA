@@ -35,25 +35,13 @@ def run():
             pitch=50,
         ),
         layers=[
-            # HexagonLayer for a 3D hexagon visualization
-            pdk.Layer(
-                'HexagonLayer',
-                data=df,
-                get_position='[longitude, latitude]',
-                radius=2000,
-                elevation_scale=4,
-                elevation_range=[0, 50000],
-                pickable=True,
-                extruded=True,
-            ),
-            # ScatterplotLayer for individual data points
             pdk.Layer(
                 'ScatterplotLayer',
                 data=df,
                 get_position='[longitude, latitude]',
                 get_radius=2000,
                 get_color='[200, 30, 0, 160]',
-                get_elevation='quantity',
+                get_elevation='quantity',  # Ajouter cette ligne pour la dimension 3D
                 pickable=True,
             ),
         ],
