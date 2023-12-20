@@ -44,7 +44,7 @@ def run():
                 get_position='[longitude, latitude]',
                 radius=2000,
                 elevation_scale=40,
-                elevation_range=[0, 50000],
+                elevation_range=[0, 5000],
                 pickable=True,
                 extruded=True,
             ),
