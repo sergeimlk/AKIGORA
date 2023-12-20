@@ -1,55 +1,64 @@
-import numpy as np
-import pandas as pd
-import seaborn as sns
 import streamlit as st
-from PIL import Image  
-import plotly.express as px
-from pydub import AudioSegment
-from pydub.playback import play
-import matplotlib.pyplot as plt
-from streamlit_echarts import st_echarts
+import pandas as pd
+import pydeck as pdk
+import json
 
-# Définir le titre de la page et l'état initial de la barre latérale
-st.set_page_config(page_title="AKIGORA DASHBOARD", layout="wide", initial_sidebar_state="collapsed")
+def run():
+    # Charger le DataFrame
+    df = pd.read_csv('DATA AKIGORA/AkiEXPERT.csv')
 
+    # Fonction pour extraire les coordonnées
+    def extract_coordinates(geo):
+        try:
+            geo_data = json.loads(geo)
+            lat, long = geo_data['location']['coordinates']
+            return lat, long
+        except:
+            return None, None
 
-# Ajouter le logo dans la barre latérale et réduire la taille de 30%
-logo_path = r"DATA AKIGORA/2LOGO.png"
-logo = Image.open(logo_path)
-logo_resized = logo.resize((int(logo.width * 1), int(logo.height * 1)))  # Réduire de 30%
-st.sidebar.image(logo_resized, use_column_width=True)
+    # Appliquer la fonction à chaque ligne du DataFrame
+    df[['latitude', 'longitude']] = df['geo'].apply(extract_coordinates).apply(pd.Series)
 
-import contexte_projet
-import departement_rh
-import map
-import departement_direction
-import departement_marketing
-import departement_technique
-import remerciements
+    # Inverser latitude et longitude
+    df[['latitude', 'longitude']] = df[['longitude', 'latitude']]
 
-# Charger les données
-#df = pd.read_csv(r'OneDrive/Documents/AKIGORA RAPPORT/DATA AKIGORA/AkiEXPERT.csv')
-df = pd.read_csv(r'DATA AKIGORA/AkiEXPERT.csv')
+    # Afficher le DataFrame résultant
+    st.dataframe(df[['latitude', 'longitude']])
 
-st.sidebar.title("📊 AKIGORA DASHBOARD")
+    # Afficher la carte avec Pydeck
+    st.pydeck_chart(pdk.Deck(
+        map_style="mapbox://styles/mapbox/satellite-streets-v11",
+        initial_view_state=pdk.ViewState(
+            latitude=df['latitude'].mean(),
+            longitude=df['longitude'].mean(),
+            zoom=5,
+            pitch=50,
+        ),
+        layers=[
+            # HexagonLayer for a 3D hexagon visualization
+            pdk.Layer(
+                'HexagonLayer',
+                data=df,
+                get_position='[longitude, latitude]',
+                radius=2000,
+                elevation_scale=4,
+                elevation_range=[0, 1000],
+                pickable=True,
+                extruded=True,
+            ),
+            # ScatterplotLayer for individual data points
+            pdk.Layer(
+                'ScatterplotLayer',
+                data=df,
+                get_position='[longitude, latitude]',
+                get_radius=2000,
+                get_color='[200, 30, 0, 160]',
+                get_elevation='quantity',
+                pickable=True,
+            ),
+        ],
+    ))
 
-pages = ["🚀Contexte du projet", "👥Département RH", "🗺️Carte", "🎯Département Direction", "📢Département Marketing", "🔧Les Experts par Domaine", "🙏Remerciements"]
-page = st.sidebar.radio("🔬Analyse de données:", pages)
-
-# Exécuter le code correspondant à la page sélectionnée
-if page == pages[0]:
-    contexte_projet.run()
-elif page == pages[1]:
-    departement_rh.run(df)
-elif page == pages[2]:
-    map.run()
-elif page == pages[3]:
-    departement_direction.run(df)
-elif page == pages[4]:
-    departement_marketing.run(df)
-elif page == pages[5]:
-    departement_technique.run(df)
-elif page == pages[6]:
-    remerciements.run(df)
-elif page == pages[7]:
-    cv.run(df)
+# Vérifiez si le script est exécuté directement (non importé en tant que module)
+if __name__ == "__main__":
+    run()
