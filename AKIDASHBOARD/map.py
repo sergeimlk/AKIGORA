@@ -11,8 +11,8 @@ def run():
     def extract_coordinates(geo):
         try:
             geo_data = json.loads(geo)
-            lat, lon = geo_data['location']['coordinates']  # Note le changement de lat et long à lat et lon
-            return lat, lon
+            lat, long = geo_data['location']['coordinates']
+            return lat, long
         except:
             return None, None
 
@@ -25,9 +25,6 @@ def run():
     # Afficher le DataFrame résultant
     st.dataframe(df[['latitude', 'longitude']])
 
-    # Données pour les nouvelles couches
-    chart_data = df[['latitude', 'longitude']]
-
     # Afficher la carte avec Pydeck
     st.pydeck_chart(pdk.Deck(
         map_style="mapbox://styles/mapbox/satellite-streets-v11",
@@ -38,24 +35,14 @@ def run():
             pitch=50,
         ),
         layers=[
-            # Couche HexagonLayer
-            pdk.Layer(
-                'HexagonLayer',
-                data=chart_data,
-                get_position='[longitude, latitude]',
-                radius=200,
-                elevation_scale=4,
-                elevation_range=[0, 1000],
-                pickable=True,
-                extruded=True,
-            ),
-            # Couche ScatterplotLayer
             pdk.Layer(
                 'ScatterplotLayer',
-                data=chart_data,
+                data=df,
                 get_position='[longitude, latitude]',
+                get_radius=2000,
                 get_color='[200, 30, 0, 160]',
-                get_radius=200,
+                get_elevation='quantity',  # Ajouter cette ligne pour la dimension 3D
+                pickable=True,
             ),
         ],
     ))
