@@ -26,6 +26,7 @@ import departement_direction
 import departement_marketing
 import departement_technique
 import remerciements
+import CV
 
 # Charger les données
 #df = pd.read_csv(r'OneDrive/Documents/AKIGORA RAPPORT/DATA AKIGORA/AkiEXPERT.csv')
