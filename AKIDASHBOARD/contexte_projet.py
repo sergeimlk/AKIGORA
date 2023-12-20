@@ -24,11 +24,12 @@ def run():
     logo = Image.open(logo_path)
     col_logo.image(logo, use_column_width=True, caption="")
 
-liquidfill_option = {
-    "series": [{"type": "liquidFill", "data": [0.9, 0.7, 0.6, 0.5, 0.4, 0.3, 0.2, 0.1], "itemStyle": {"color": "red"}}],
-    "backgroundColor": "transparent"  # Cette ligne rend l'arrière-plan transparent
-}
-st_echarts(liquidfill_option)
+# Graphique liquidFill sous les deux colonnes
+    liquidfill_option = {
+        "series": [{"type": "liquidFill", "data": [0.1, 0.7, 0.6, 0.5, 0.4, 0.3, 0.2, 0.1], "itemStyle": {"color": "red"}}],
+        "backgroundColor": "transparent"  # Cette ligne rend l'arrière-plan transparent
+    }
+    st_echarts(liquidfill_option)
 
 if __name__ == "__main__":
     run()
