@@ -3,7 +3,7 @@ import pandas as pd
 
 def run():
     # Charger le DataFrame (image)
-    df = pd.read_png(r'AKIGORA/DATA AKIGORA/CV.png')
+    df = pd.read_png('AKIGORA/DATA AKIGORA/CV.png')
 
     # Afficher l'image
     st.image(df)
