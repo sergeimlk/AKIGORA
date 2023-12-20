@@ -27,7 +27,7 @@ def run():
 
     # Afficher la carte avec Pydeck
     st.pydeck_chart(pdk.Deck(
-        map_style="mapbox://styles/mapbox/outdoors-v11",
+        map_style="mapbox://styles/mapbox/satellite-streets-v11",
         initial_view_state=pdk.ViewState(
             latitude=df['latitude'].mean(),
             longitude=df['longitude'].mean(),
