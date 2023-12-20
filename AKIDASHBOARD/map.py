@@ -25,14 +25,15 @@ def run():
     # Afficher le DataFrame résultant
     st.dataframe(df[['latitude', 'longitude']])
 
-    # Afficher la carte avec Pydeck
+    # Afficher la carte avec Pydeck en 3D
     st.pydeck_chart(pdk.Deck(
         map_style="mapbox://styles/mapbox/satellite-streets-v11",
         initial_view_state=pdk.ViewState(
             latitude=df['latitude'].mean(),
             longitude=df['longitude'].mean(),
             zoom=5,
-            pitch=50,
+            pitch=50,  # Angle de vue en 3D
+            bearing=0,  # Orientation de la carte en degrés
         ),
         layers=[
             pdk.Layer(
@@ -41,11 +42,12 @@ def run():
                 get_position='[longitude, latitude]',
                 get_radius=2000,
                 get_color='[200, 30, 0, 160]',
-                get_elevation='quantity',  # Ajouter cette ligne pour la dimension 3D
+                get_elevation='quantity',
                 pickable=True,
             ),
         ],
     ))
+
 
 # Vérifiez si le script est exécuté directement (non importé en tant que module)
 if __name__ == "__main__":
