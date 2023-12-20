@@ -22,8 +22,10 @@ def run():
     # Inverser latitude et longitude
     df[['latitude', 'longitude']] = df[['longitude', 'latitude']]
 
+    st.title("CARTE 3D (HEXAGONES)")
+
     # Afficher le DataFrame résultant
-    st.dataframe(df[['latitude', 'longitude']])
+    #st.dataframe(df[['latitude', 'longitude']])
 
     # Afficher la carte avec Pydeck
     st.pydeck_chart(pdk.Deck(
