@@ -32,8 +32,7 @@ def run():
             latitude=df['latitude'].mean(),
             longitude=df['longitude'].mean(),
             zoom=5,
-            pitch=50,  # Angle de vue en 3D
-            bearing=0,  # Orientation de la carte en degrés
+            pitch=50,
         ),
         layers=[
             pdk.Layer(
@@ -42,12 +41,11 @@ def run():
                 get_position='[longitude, latitude]',
                 get_radius=2000,
                 get_color='[200, 30, 0, 160]',
-                get_elevation='quantity',
+                get_elevation='quantity * 10',  # Ajuste la multiplication pour contrôler l'élévation
                 pickable=True,
             ),
         ],
     ))
-
 
 # Vérifiez si le script est exécuté directement (non importé en tant que module)
 if __name__ == "__main__":
