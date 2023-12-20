@@ -22,7 +22,7 @@ def run():
     # Inverser latitude et longitude
     df[['latitude', 'longitude']] = df[['longitude', 'latitude']]
 
-    st.title("CARTE 3D (HEXAGONES)")
+    st.title("🗺️CARTE 3DHEXA🛑")
 
     # Afficher le DataFrame résultant
     #st.dataframe(df[['latitude', 'longitude']])
