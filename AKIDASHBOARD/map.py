@@ -37,7 +37,7 @@ def run():
             pitch=50,
         ),
         layers=[
-            # HexagonLayer for a 3D hexagon visualization
+            # HexagonLayer pour une visualisation en bâtons hexagonaux 3D
             pdk.Layer(
                 'HexagonLayer',
                 data=df,
@@ -47,7 +47,10 @@ def run():
                 elevation_range=[0, 10000],
                 pickable=True,
                 extruded=True,
+                get_fill_color="[255, 165, 0]",  # Couleur orange en format RGB
             ),
+        ],
+    )),
             # ScatterplotLayer for individual data points
             pdk.Layer(
                 'ScatterplotLayer',
