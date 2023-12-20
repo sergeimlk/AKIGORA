@@ -52,7 +52,7 @@ def run():
                 'ScatterplotLayer',
                 data=df,
                 get_position='[longitude, latitude]',
-                get_radius=2000,
+                get_radius=5000,
                 get_color='[200, 30, 0, 160]',
                 get_elevation='quantity',
                 pickable=True,
