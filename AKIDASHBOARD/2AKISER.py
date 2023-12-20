@@ -33,7 +33,7 @@ df = pd.read_csv(r'DATA AKIGORA/AkiEXPERT.csv')
 
 st.sidebar.title("📊 AKIGORA DASHBOARD")
 
-pages = ["🚀Contexte du projet", "👥Département RH", "🗺️Carte", "🎯Département Direction", "📢Département Marketing", "🔧Les Experts par Domaine", "🙏Remerciements"]
+pages = ["🚀Contexte du projet", "👥Département RH", "🗺️Carte", "🎯Département Direction", "📢Département Marketing", "🔧Les Experts par Domaine", "🙏Remerciements","👨‍💻CV & CANDIDATURE"]
 page = st.sidebar.radio("🔬Analyse de données:", pages)
 
 # Exécuter le code correspondant à la page sélectionnée
@@ -51,5 +51,7 @@ elif page == pages[5]:
     departement_technique.run(df)
 elif page == pages[6]:
     remerciements.run(df)
+elif page == pages[7]:
+    CV.run(df)
     
     
