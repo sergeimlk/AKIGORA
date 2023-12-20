@@ -10,7 +10,7 @@ Assurez-vous d'avoir Python installé sur votre machine. Vous pouvez télécharg
 
 1. Clonez ce dépôt sur votre machine :
    ```bash
-   git clone https://github.com/votre-utilisateur/AKIDASHBOARD.git
+   git clone https://github.com/sergeimlk/AKIDASHBOARD.git
 Accédez au répertoire du projet :
 
 bash
