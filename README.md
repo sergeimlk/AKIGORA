@@ -51,7 +51,3 @@ Merci d'utiliser l'application AKIDASHBOARD
 ```
 
 En modifiant la section "Exécution de l'application", le lien est désormais directement accessible via Streamlit.
-
-Citations:
-[1] https://akigoradash.streamlit.app
-[2] https://www.python.org/downloads/
