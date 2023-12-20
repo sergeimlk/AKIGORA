@@ -43,7 +43,7 @@ def run():
                 data=df,
                 get_position='[longitude, latitude]',
                 radius=20000,
-                elevation_scale=40,
+                elevation_scale=400,
                 elevation_range=[0, 25000],
                 pickable=True,
                 extruded=True,
