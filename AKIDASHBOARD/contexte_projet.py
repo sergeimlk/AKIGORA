@@ -26,7 +26,7 @@ def run():
 
 # Graphique liquidFill sous les deux colonnes
     liquidfill_option = {
-        "series": [{"type": "liquidFill", "data": [0.99, 0.7, 0.6, 0.5, 0.4, 0.3, 0.2, 0.1], "itemStyle": {"color": "red"}}],
+        "series": [{"type": "liquidFill", "data": [0.99, 0.8, 0.7, 0.6, 0.5, 0.4, 0.3, 0.2, 0.1], "itemStyle": {"color": "red"}}],
         "backgroundColor": "transparent"  # Cette ligne rend l'arrière-plan transparent
     }
     st_echarts(liquidfill_option)
