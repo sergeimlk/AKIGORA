@@ -54,7 +54,7 @@ elif page == pages[6]:
     remerciements.run(df)
 elif page == pages[7]:
     try:
-    cv.run(df)
-except Exception as e:
-    print(f"Erreur lors de l'exécution de cv.run : {e}")
+        cv.run(df)
+    except Exception as e:
+        print(f"Erreur lors de l'exécution de cv.run : {e}")
     
