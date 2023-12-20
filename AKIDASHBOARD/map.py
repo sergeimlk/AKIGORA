@@ -22,10 +22,8 @@ def run():
     # Inverser latitude et longitude
     df[['latitude', 'longitude']] = df[['longitude', 'latitude']]
 
-    st.title("🗺️LOCALISATION DES EXPERTS🛑")
-
     # Afficher le DataFrame résultant
-    #st.dataframe(df[['latitude', 'longitude']])
+    st.dataframe(df[['latitude', 'longitude']])
 
     # Afficher la carte avec Pydeck
     st.pydeck_chart(pdk.Deck(
@@ -48,18 +46,6 @@ def run():
                 pickable=True,
                 extruded=True,
                 get_fill_color="[255, 165, 0]",  # Couleur orange en format RGB
-            ),
-        ],
-    )),
-            # ScatterplotLayer for individual data points
-            pdk.Layer(
-                'ScatterplotLayer',
-                data=df,
-                get_position='[longitude, latitude]',
-                get_radius=10000,
-                get_color='[200, 3, 0, 160]',
-                get_elevation='quantity',
-                pickable=True,
             ),
         ],
     ))
