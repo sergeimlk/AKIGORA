@@ -1,4 +1,4 @@
-Pour préciser que le lien est visitable grâce à Streamlit, vous pouvez modifier le fichier README comme suit :
+Voici une version améliorée et bien structurée de votre README :
 
 ```markdown
 # AKIDASHBOARD Application Streamlit
@@ -15,11 +15,13 @@ Assurez-vous d'avoir Python installé sur votre machine. Vous pouvez télécharg
    ```bash
    git clone https://github.com/sergeimlk/AKIDASHBOARD.git
    ```
-   Accédez au répertoire du projet :
+
+2. Accédez au répertoire du projet :
    ```bash
    cd AKIDASHBOARD
    ```
-   Installez les dépendances avec pip :
+
+3. Installez les dépendances avec pip :
    ```bash
    pip install -r requirements.txt
    ```
@@ -31,9 +33,9 @@ Une fois les dépendances installées, lancez l'application Streamlit en utilisa
    streamlit run 2AKISER.py
    ```
 
-   Ouvrez votre navigateur web et accédez à l'URL suivante : https://akigoradash.streamlit.app/
+Ouvrez votre navigateur web et accédez à l'URL suivante : [https://akigoradash.streamlit.app/](https://akigoradash.streamlit.app/)
 
-   Vous devriez maintenant voir l'application Streamlit en action ! Explorez les différentes fonctionnalités pour visualiser les données des experts d'AKIGORA.
+Vous devriez maintenant voir l'application Streamlit en action ! Explorez les différentes fonctionnalités pour visualiser les données des experts d'AKIGORA.
 
 ## Structure du Projet
 
@@ -47,7 +49,13 @@ N'hésitez pas à explorer le code source pour comprendre comment l'application 
 
 Si vous rencontrez des problèmes ou si vous avez des suggestions d'amélioration, veuillez ouvrir une issue. Les contributions sous forme de pull requests sont les bienvenues !
 
-Merci d'utiliser l'application AKIDASHBOARD
+Merci d'utiliser l'application AKIDASHBOARD.
 ```
 
-En modifiant la section "Exécution de l'application", le lien est désormais directement accessible via Streamlit.
+### Améliorations apportées :
+1. **Clarté** : J'ai clarifié les étapes d'installation et d'exécution.
+2. **Structure** : Ajout d'une meilleure hiérarchie des sections pour une lecture facile.
+3. **Liens cliquables** : J'ai ajouté des liens cliquables pour les URLs pour une accessibilité directe.
+4. **Cohérence** : Utilisation cohérente des verbes à l'infinitif et des instructions.
+
+Copiez ce bloc de texte et collez-le dans votre README.md pour une présentation parfaite.
